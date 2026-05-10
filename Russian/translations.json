@@ -5159,32 +5159,21 @@
           "1.5",
           "1.6"
         ]
-      }
-    },
-    {
-      "name": "Altered Carbon: Ultratech Unleashed",
-      "packageId": "hlx.ultratechalteredcarbon",
-      "steamId": "3258617589",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3258617589",
-      "authors": "Helixien",
-      "gameVersions": [
-        "1.5",
-        "1.4",
-        "1.3",
-        "1.2"
-      ],
-      "translation": {
-        "name": "Altered Carbon Russian Language Pack",
-        "packageId": "OW.RU.AlteredCarbon",
-        "steamId": "2214481217",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2214481217",
-        "authors": "Mewn Goddess, OliveWizard",
-        "gameVersions": [
-          "1.2",
-          "1.3",
-          "1.4"
-        ]
-      }
+      },
+      "alternatives": [
+        {
+          "name": "Altered Carbon Russian Language Pack",
+          "packageId": "OW.RU.AlteredCarbon",
+          "steamId": "2214481217",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2214481217",
+          "authors": "Mewn Goddess, OliveWizard",
+          "gameVersions": [
+            "1.2",
+            "1.3",
+            "1.4"
+          ]
+        }
+      ]
     },
     {
       "name": "Ammo Scrapping (CE) (Continued)",
@@ -10467,28 +10456,18 @@
         "gameVersions": [
           "1.6"
         ]
-      }
-    },
-    {
-      "name": "Combat Extended Attachments",
-      "packageId": "ceteam.combatextendedattachments",
-      "steamId": "2850166678",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2850166678",
-      "authors": "CE Team",
-      "gameVersions": [
-        "1.3",
-        "1.4",
-        "1.5"
-      ],
-      "translation": {
-        "name": "Combat Extended Attachments Russian",
-        "steamId": "3094960512",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3094960512",
-        "gameVersions": [
-          "1.5",
-          "1.4"
-        ]
-      }
+      },
+      "alternatives": [
+        {
+          "name": "Combat Extended Attachments Russian",
+          "steamId": "3094960512",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3094960512",
+          "gameVersions": [
+            "1.5",
+            "1.4"
+          ]
+        }
+      ]
     },
     {
       "name": "Combat Extended Guns",
@@ -11566,7 +11545,8 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2926675339",
       "gameVersions": [
         "1.5",
-        "1.4"
+        "1.4",
+        "1.6"
       ],
       "translation": {
         "name": "Dubs Bad Hygiene for Medieval ru",
@@ -15131,13 +15111,19 @@
       }
     },
     {
-      "name": "Expanded Roofing 1.4",
-      "packageId": "wit.expandedroofing",
-      "steamId": "2879451927",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2879451927",
-      "authors": "NigrumMortis (supporting 1.4) & KiameV (supporting until 1.3) & Why_is_that (original)",
+      "name": "Expanded Roofing (Continued)",
+      "packageId": "mlie.expandedroofing",
+      "steamId": "2026595894",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2026595894",
+      "authors": "Why_is_that",
       "gameVersions": [
-        "1.4"
+        "1.0",
+        "1.1",
+        "1.2",
+        "1.3",
+        "1.4",
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Rus Expanded Roofing",
@@ -17908,15 +17894,13 @@
       }
     },
     {
-      "name": "HC_Creatures_1",
+      "name": "HC Creatures Continued",
       "packageId": "hc.creatures.1",
-      "steamId": "2589837522",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2589837522",
-      "authors": "Kor_HellCross",
+      "steamId": "3641332277",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3641332277",
+      "authors": "Seanbeag",
       "gameVersions": [
-        "1.2",
-        "1.3",
-        "1.4"
+        "1.6"
       ],
       "translation": {
         "name": "Ru HC_Creatures_1",
@@ -21474,30 +21458,19 @@
           "gameVersions": [
             "1.5"
           ]
+        },
+        {
+          "name": "Medieval Overhaul - Русификатор",
+          "steamId": "2812992901",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2812992901",
+          "gameVersions": [
+            "1.5",
+            "1.4",
+            "1.3",
+            "1.6"
+          ]
         }
       ]
-    },
-    {
-      "name": "Medieval Overhaul",
-      "packageId": "dankpyon.medieval.overhaul",
-      "steamId": "2553700067",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2553700067",
-      "authors": "SirLalaPyon",
-      "gameVersions": [
-        "1.3",
-        "1.4"
-      ],
-      "translation": {
-        "name": "Medieval Overhaul - Русификатор",
-        "steamId": "2812992901",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2812992901",
-        "gameVersions": [
-          "1.5",
-          "1.4",
-          "1.3",
-          "1.6"
-        ]
-      }
     },
     {
       "name": "Medieval Overhaul : Hornetkeeping",
@@ -22689,12 +22662,14 @@
     {
       "name": "Moonlight",
       "packageId": "owlchemist.moonlight",
-      "steamId": "2589384830",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2589384830",
+      "steamId": "3261311563",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3261311563",
       "authors": "Owlchemist",
       "gameVersions": [
         "1.3",
-        "1.4"
+        "1.4",
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "ReGrowth Russian Language Pack",
@@ -22733,33 +22708,6 @@
           ]
         }
       ]
-    },
-    {
-      "name": "Moonlight",
-      "packageId": "owlchemist.moonlight",
-      "steamId": "3261311563",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3261311563",
-      "authors": "Owlchemist",
-      "gameVersions": [
-        "1.3",
-        "1.4",
-        "1.5",
-        "1.6"
-      ],
-      "translation": {
-        "name": "ReGrowth Russian Language Pack",
-        "packageId": "OW.RU.ReGrowth",
-        "steamId": "2363339448",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2363339448",
-        "authors": "OliveWizard",
-        "gameVersions": [
-          "1.2",
-          "1.3",
-          "1.4",
-          "1.5",
-          "1.6"
-        ]
-      }
     },
     {
       "name": "Moosesian race",
@@ -22807,7 +22755,8 @@
       "steamId": "2278457033",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2278457033",
       "gameVersions": [
-        "1.4"
+        "1.4",
+        "1.6"
       ],
       "translation": {
         "name": "Ru More Android Backstories",
@@ -23321,7 +23270,8 @@
         "1.2",
         "1.3",
         "1.4",
-        "1.5"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "More Thrumbos (Retextured) rus",
@@ -24312,31 +24262,6 @@
           ]
         }
       ]
-    },
-    {
-      "name": "Noobert Nebulous - Vidtuber",
-      "packageId": "noobertnebulous.vidtuber",
-      "steamId": "3013420224",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3013420224",
-      "authors": "Oskar Potocki, Taranchuk, ISOREX",
-      "gameVersions": [
-        "1.4"
-      ],
-      "translation": {
-        "name": "Vanilla Storytellers Expanded Russian Language Pack",
-        "packageId": "OW.RU.VSE",
-        "steamId": "2150723779",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2150723779",
-        "authors": "OliveWizard",
-        "gameVersions": [
-          "1.1",
-          "1.2",
-          "1.3",
-          "1.4",
-          "1.5",
-          "1.6"
-        ]
-      }
     },
     {
       "name": "Noobert Nebulous - Vidtuber (Continued)",
@@ -27484,7 +27409,8 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1578693166",
       "gameVersions": [
         "1.5",
-        "1.4"
+        "1.4",
+        "1.6"
       ],
       "translation": {
         "name": "NewRatkinPlus - Русский Язык",
@@ -27612,7 +27538,8 @@
       "steamId": "3263391066",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3263391066",
       "gameVersions": [
-        "1.5"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Ratkin Lifestyle+ (Ru translation)",
@@ -28059,7 +27986,8 @@
       "gameVersions": [
         "1.3",
         "1.4",
-        "1.5"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "ReGrowth Russian Language Pack",
@@ -28465,29 +28393,6 @@
           ]
         }
       ]
-    },
-    {
-      "name": "ResearchPowl",
-      "packageId": "owlchemist.researchpowl",
-      "steamId": "2877856030",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2877856030",
-      "authors": "VinaLx, Owlchemist",
-      "gameVersions": [
-        "1.4"
-      ],
-      "translation": {
-        "name": "QOL rus",
-        "packageId": "kamikadza13QOL.All",
-        "steamId": "2791163039",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
-        "authors": "Kamikadza13",
-        "gameVersions": [
-          "1.3",
-          "1.4",
-          "1.5",
-          "1.6"
-        ]
-      }
     },
     {
       "name": "Resize Filter Tab",
@@ -29878,7 +29783,8 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3276566575",
       "gameVersions": [
         "1.5",
-        "1.4"
+        "1.4",
+        "1.6"
       ],
       "translation": {
         "name": "RimThunder - Breakthrough на русском языке",
@@ -29939,7 +29845,8 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3328006205",
       "authors": "RimThunderTeams",
       "gameVersions": [
-        "1.5"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "RimThunder - Enduring Freedom на русском языке",
@@ -31277,14 +31184,16 @@
       ]
     },
     {
-      "name": "Scattered Stones",
+      "name": "Scattered Stones 1.6",
       "packageId": "owlchemist.scatteredstones",
-      "steamId": "2598436855",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2598436855",
+      "steamId": "3528503211",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3528503211",
       "authors": "Owlchemist",
       "gameVersions": [
         "1.3",
-        "1.4"
+        "1.4",
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Коллекция русских переводов RusPack",
@@ -31323,35 +31232,6 @@
           ]
         }
       ]
-    },
-    {
-      "name": "Scattered Stones 1.6",
-      "packageId": "owlchemist.scatteredstones",
-      "steamId": "3528503211",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3528503211",
-      "authors": "Owlchemist",
-      "gameVersions": [
-        "1.3",
-        "1.4",
-        "1.5",
-        "1.6"
-      ],
-      "translation": {
-        "name": "Коллекция русских переводов RusPack",
-        "packageId": "dmitry6.RusPack",
-        "steamId": "2802167053",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802167053",
-        "authors": "Dmitry6",
-        "gameVersions": [
-          "1.3",
-          "1.4",
-          "1.5",
-          "1.6",
-          "1.7",
-          "1.8",
-          "1.9"
-        ]
-      }
     },
     {
       "name": "Schedule Everything!",
@@ -32070,12 +31950,14 @@
     {
       "name": "Simple FX: Smoke",
       "packageId": "owlchemist.simplefx.smoke2",
-      "steamId": "2574489704",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2574489704",
+      "steamId": "3261314247",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3261314247",
       "authors": "Owlchemist, Mlie",
       "gameVersions": [
         "1.3",
-        "1.4"
+        "1.4",
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Rus Simple FX: Smoke",
@@ -32339,12 +32221,12 @@
     {
       "name": "Simple Utilities: Ceiling",
       "packageId": "owlchemist.ceilingutilities",
-      "steamId": "2571003732",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2571003732",
+      "steamId": "3231909012",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3231909012",
       "authors": "Owlchemist",
       "gameVersions": [
-        "1.3",
-        "1.4"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Rus Simple Utilities: Ceiling",
@@ -32422,12 +32304,12 @@
     {
       "name": "Simple Utilities: Wall",
       "packageId": "owlchemist.wallutilities",
-      "steamId": "2565545335",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2565545335",
+      "steamId": "3232074807",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3232074807",
       "authors": "Owlchemist",
       "gameVersions": [
-        "1.3",
-        "1.4"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Simple Utilities: Wall Russian",
@@ -33722,7 +33604,8 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3106413957",
       "gameVersions": [
         "1.5",
-        "1.4"
+        "1.4",
+        "1.6"
       ],
       "translation": {
         "name": "Stoneborn - Delights - Russian Translation",
@@ -34283,6 +34166,9 @@
       "name": "Tasty Armory - Fire and Steel",
       "steamId": "3469863838",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3469863838",
+      "gameVersions": [
+        "1.6"
+      ],
       "translation": {
         "name": "Tasty Armory Russian Language",
         "steamId": "3644399233",
@@ -34317,6 +34203,9 @@
       "name": "Tasty Armory - In Shining Armor",
       "steamId": "3482266407",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3482266407",
+      "gameVersions": [
+        "1.6"
+      ],
       "translation": {
         "name": "Tasty Armory Russian Language",
         "steamId": "3644399233",
@@ -34332,6 +34221,9 @@
       "name": "Tasty Armory - Sengoku",
       "steamId": "3494429497",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3494429497",
+      "gameVersions": [
+        "1.6"
+      ],
       "translation": {
         "name": "Tasty Armory Russian Language",
         "steamId": "3644399233",
@@ -34347,6 +34239,9 @@
       "name": "Tasty Armory - Steppe Warriors",
       "steamId": "3472989392",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3472989392",
+      "gameVersions": [
+        "1.6"
+      ],
       "translation": {
         "name": "Tasty Armory Russian Language",
         "steamId": "3644399233",
@@ -36504,13 +36399,13 @@
       }
     },
     {
-      "name": "Universal Trade Hub",
+      "name": "Universal Trade Hub (continued)",
       "packageId": "alt4s.universaltradehub",
-      "steamId": "3281403886",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3281403886",
+      "steamId": "3511009023",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3511009023",
       "authors": "alt4s",
       "gameVersions": [
-        "1.5"
+        "1.6"
       ],
       "translation": {
         "name": "Universal Trade Hub (Ru translation)",
@@ -38233,7 +38128,8 @@
       "gameVersions": [
         "1.3",
         "1.4",
-        "1.5"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Vanilla Furniture Expanded Russian Language Pack",
@@ -41914,26 +41810,6 @@
           "1.2",
           "1.3",
           "1.4"
-        ]
-      }
-    },
-    {
-      "name": "Wula Fallen Empire",
-      "packageId": "tourswen.wulafallenempire",
-      "steamId": "3528588530",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3528588530",
-      "authors": "Tourswen",
-      "gameVersions": [
-        "1.6"
-      ],
-      "translation": {
-        "name": "Wula Fallen Empire [RUS] [РУС]",
-        "packageId": "mhu.wulafallenempire",
-        "steamId": "3626036567",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3626036567",
-        "authors": "Micharduio",
-        "gameVersions": [
-          "1.6"
         ]
       }
     },
