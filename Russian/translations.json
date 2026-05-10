@@ -1,6 +1,6 @@
 {
-  "version": 1778100766,
-  "updatedAt": "2026-05-06",
+  "version": 1778417421,
+  "updatedAt": "2026-05-10",
   "language": "Russian",
   "aliases": [
     "Russian (GitHub)"
@@ -1838,18 +1838,31 @@
         "1.6"
       ],
       "translation": {
-        "name": "[Kit] Graze up rus",
-        "packageId": "kamikadza13.kittahkhan.grazeup",
-        "steamId": "2884204374",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884204374",
+        "name": "QOL rus",
+        "packageId": "kamikadza13QOL.All",
+        "steamId": "2791163039",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
         "authors": "Kamikadza13",
         "gameVersions": [
-          "1.2",
           "1.3",
-          "1.4"
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
+        {
+          "name": "[Kit] Graze up rus",
+          "packageId": "kamikadza13.kittahkhan.grazeup",
+          "steamId": "2884204374",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884204374",
+          "authors": "Kamikadza13",
+          "gameVersions": [
+            "1.2",
+            "1.3",
+            "1.4"
+          ]
+        },
         {
           "name": "Rus [Kit] Graze up",
           "steamId": "2961668416",
@@ -1859,19 +1872,6 @@
             "1.5",
             "1.4",
             "1.3"
-          ]
-        },
-        {
-          "name": "QOL rus",
-          "packageId": "kamikadza13QOL.All",
-          "steamId": "2791163039",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
-          "authors": "Kamikadza13",
-          "gameVersions": [
-            "1.3",
-            "1.4",
-            "1.5",
-            "1.6"
           ]
         }
       ]
@@ -1928,31 +1928,31 @@
         "1.4"
       ],
       "translation": {
-        "name": "[KV] More Trait Slots [1.4] rus",
-        "packageId": "kamikadza13.moretraitslots.kv.rw",
-        "steamId": "2884186719",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884186719",
+        "name": "QOL rus",
+        "packageId": "kamikadza13QOL.All",
+        "steamId": "2791163039",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
         "authors": "Kamikadza13",
         "gameVersions": [
-          "1.0",
-          "1.1",
-          "1.2",
           "1.3",
-          "1.4"
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "QOL rus",
-          "packageId": "kamikadza13QOL.All",
-          "steamId": "2791163039",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
+          "name": "[KV] More Trait Slots [1.4] rus",
+          "packageId": "kamikadza13.moretraitslots.kv.rw",
+          "steamId": "2884186719",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884186719",
           "authors": "Kamikadza13",
           "gameVersions": [
+            "1.0",
+            "1.1",
+            "1.2",
             "1.3",
-            "1.4",
-            "1.5",
-            "1.6"
+            "1.4"
           ]
         }
       ]
@@ -4945,25 +4945,25 @@
         "1.4"
       ],
       "translation": {
-        "name": "Русский язык для Alpha Mythology",
-        "steamId": "2898318931",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2898318931",
+        "name": "Alpha Mythology ua ru pr",
+        "steamId": "2890142522",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2890142522",
         "gameVersions": [
           "1.5",
           "1.4",
-          "1.3"
+          "1.3",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Alpha Mythology ua ru pr",
-          "steamId": "2890142522",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2890142522",
+          "name": "Русский язык для Alpha Mythology",
+          "steamId": "2898318931",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2898318931",
           "gameVersions": [
             "1.5",
             "1.4",
-            "1.3",
-            "1.6"
+            "1.3"
           ]
         }
       ]
@@ -5759,32 +5759,6 @@
       }
     },
     {
-      "name": "Animal Hoods",
-      "packageId": "yamazaki.animalhoods",
-      "steamId": "2940674337",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2940674337",
-      "authors": "Yamazaki",
-      "gameVersions": [
-        "1.3",
-        "1.4",
-        "1.5",
-        "1.6"
-      ],
-      "translation": {
-        "name": "Animal Hoods - перевод на русский язык",
-        "packageId": "serzhuk.yamazaki.animalhoods",
-        "steamId": "3587396149",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3587396149",
-        "authors": "serzhuk",
-        "gameVersions": [
-          "1.3",
-          "1.4",
-          "1.5",
-          "1.6"
-        ]
-      }
-    },
-    {
       "name": "Animal Medical Bed 1.5",
       "packageId": "godlyannihilator.animalmedicalbed",
       "steamId": "3221610549",
@@ -5875,29 +5849,29 @@
         "1.6"
       ],
       "translation": {
-        "name": "AnimalHarvestingSpot (Continued) rus",
-        "steamId": "2782698222",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2782698222",
+        "name": "QOL rus",
+        "packageId": "kamikadza13QOL.All",
+        "steamId": "2791163039",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
+        "authors": "Kamikadza13",
         "gameVersions": [
-          "1.0",
-          "1.1",
-          "1.2",
+          "1.3",
           "1.4",
-          "1.3"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "QOL rus",
-          "packageId": "kamikadza13QOL.All",
-          "steamId": "2791163039",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
-          "authors": "Kamikadza13",
+          "name": "AnimalHarvestingSpot (Continued) rus",
+          "steamId": "2782698222",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2782698222",
           "gameVersions": [
-            "1.3",
+            "1.0",
+            "1.1",
+            "1.2",
             "1.4",
-            "1.5",
-            "1.6"
+            "1.3"
           ]
         }
       ]
@@ -6059,39 +6033,21 @@
         "1.6"
       ],
       "translation": {
-        "name": "Apex: Rimworld Legends (Continued) - Russian Translation",
-        "packageId": "valera.apexrimworldlegends.translation.russian",
-        "steamId": "3540205173",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3540205173",
-        "authors": "ВАЛЕРА",
+        "name": "Коллекция русских переводов RusPack",
+        "packageId": "dmitry6.RusPack",
+        "steamId": "2802167053",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802167053",
+        "authors": "Dmitry6",
         "gameVersions": [
-          "1.0",
-          "1.1",
-          "1.2",
           "1.3",
           "1.4",
           "1.5",
-          "1.6"
+          "1.6",
+          "1.7",
+          "1.8",
+          "1.9"
         ]
-      },
-      "alternatives": [
-        {
-          "name": "Коллекция русских переводов RusPack",
-          "packageId": "dmitry6.RusPack",
-          "steamId": "2802167053",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802167053",
-          "authors": "Dmitry6",
-          "gameVersions": [
-            "1.3",
-            "1.4",
-            "1.5",
-            "1.6",
-            "1.7",
-            "1.8",
-            "1.9"
-          ]
-        }
-      ]
+      }
     },
     {
       "name": "Apparel Organizer (Continued)",
@@ -8205,19 +8161,7 @@
         "gameVersions": [
           "1.6"
         ]
-      },
-      "alternatives": [
-        {
-          "name": "Bionic modularity - animals - Русификатор",
-          "packageId": "Dmitry6.MrKociak.YABEMBionicModularityAnimals.rus",
-          "steamId": "3593155773",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3593155773",
-          "authors": "Dmitry6",
-          "gameVersions": [
-            "1.6"
-          ]
-        }
-      ]
+      }
     },
     {
       "name": "Bionic modularity - animals",
@@ -8310,25 +8254,25 @@
         "1.4"
       ],
       "translation": {
-        "name": "RusWorld - BioSculptingPlus",
-        "packageId": "mindew.biosculptingplusrus",
-        "steamId": "2593728286",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2593728286",
-        "authors": "Mindew",
+        "name": "BioSculptingPlus ru zh",
+        "steamId": "2898465082",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2898465082",
         "gameVersions": [
-          "1.3"
+          "1.5",
+          "1.4",
+          "1.3",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "BioSculptingPlus ru zh",
-          "steamId": "2898465082",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2898465082",
+          "name": "RusWorld - BioSculptingPlus",
+          "packageId": "mindew.biosculptingplusrus",
+          "steamId": "2593728286",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2593728286",
+          "authors": "Mindew",
           "gameVersions": [
-            "1.5",
-            "1.4",
-            "1.3",
-            "1.6"
+            "1.3"
           ]
         }
       ]
@@ -8805,30 +8749,30 @@
         "1.6"
       ],
       "translation": {
-        "name": "BoomMod Expanded rus",
-        "packageId": "kamikadza13.mlie.boommodexpanded",
-        "steamId": "2884197006",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884197006",
+        "name": "QOL rus",
+        "packageId": "kamikadza13QOL.All",
+        "steamId": "2791163039",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
         "authors": "Kamikadza13",
         "gameVersions": [
-          "1.1",
-          "1.2",
           "1.3",
-          "1.4"
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "QOL rus",
-          "packageId": "kamikadza13QOL.All",
-          "steamId": "2791163039",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
+          "name": "BoomMod Expanded rus",
+          "packageId": "kamikadza13.mlie.boommodexpanded",
+          "steamId": "2884197006",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884197006",
           "authors": "Kamikadza13",
           "gameVersions": [
+            "1.1",
+            "1.2",
             "1.3",
-            "1.4",
-            "1.5",
-            "1.6"
+            "1.4"
           ]
         }
       ]
@@ -11766,37 +11710,19 @@
         "1.6"
       ],
       "translation": {
-        "name": "DeepRim (Continued) - Russian Translation",
-        "packageId": "meowmeow.deeprim.continued.russiantranslation",
-        "steamId": "3539517039",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3539517039",
-        "authors": "Russian translation by ВАЛЕРА (Original: meowmeow)",
+        "name": "DeepRim (Continued) rus",
+        "steamId": "2782031537",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2782031537",
         "gameVersions": [
-          "1.0",
-          "1.1",
-          "1.2",
-          "1.3",
-          "1.4",
           "1.5",
-          "1.6"
+          "1.6",
+          "1.4",
+          "1.3",
+          "1.2",
+          "1.1",
+          "1.0"
         ]
-      },
-      "alternatives": [
-        {
-          "name": "DeepRim (Continued) rus",
-          "steamId": "2782031537",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2782031537",
-          "gameVersions": [
-            "1.5",
-            "1.6",
-            "1.4",
-            "1.3",
-            "1.2",
-            "1.1",
-            "1.0"
-          ]
-        }
-      ]
+      }
     },
     {
       "name": "Default Ingredient Radius",
@@ -12024,25 +11950,6 @@
       }
     },
     {
-      "name": "Det's Xenotypes - Brawnum",
-      "packageId": "det.brawnum",
-      "steamId": "3429572581",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3429572581",
-      "authors": "DetVisor",
-      "gameVersions": [
-        "1.5",
-        "1.6"
-      ],
-      "translation": {
-        "name": "Det's Xenotypes - Brawnum (Russian Translation)",
-        "steamId": "3430470081",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3430470081",
-        "gameVersions": [
-          "1.5"
-        ]
-      }
-    },
-    {
       "name": "Det's Xenotypes - Half-foot",
       "packageId": "det.halffoot",
       "steamId": "3530817307",
@@ -12059,25 +11966,6 @@
         "authors": "Vinogret",
         "gameVersions": [
           "1.6"
-        ]
-      }
-    },
-    {
-      "name": "Det's Xenotypes - Keshig",
-      "packageId": "det.keshig",
-      "steamId": "3376864722",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3376864722",
-      "authors": "DetVisor",
-      "gameVersions": [
-        "1.5",
-        "1.6"
-      ],
-      "translation": {
-        "name": "Det's Xenotypes - Keshig (Russian Translation)",
-        "steamId": "3423444684",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3423444684",
-        "gameVersions": [
-          "1.5"
         ]
       }
     },
@@ -14158,31 +14046,17 @@
         "1.6"
       ],
       "translation": {
-        "name": "Engine Industries - Russian Translation",
-        "packageId": "valera.engine.translation.russian",
-        "steamId": "3540233195",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3540233195",
-        "authors": "ВАЛЕРА",
+        "name": "Engine Industries ru ua pr",
+        "packageId": "nevelian.aoba.motorization.engine",
+        "steamId": "3039863104",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3039863104",
+        "authors": "Nevelian",
         "gameVersions": [
           "1.4",
           "1.5",
           "1.6"
         ]
-      },
-      "alternatives": [
-        {
-          "name": "Engine Industries ru ua pr",
-          "packageId": "nevelian.aoba.motorization.engine",
-          "steamId": "3039863104",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3039863104",
-          "authors": "Nevelian",
-          "gameVersions": [
-            "1.4",
-            "1.5",
-            "1.6"
-          ]
-        }
-      ]
+      }
     },
     {
       "name": "Enhanced Vat Learning",
@@ -14490,23 +14364,23 @@
         "1.3"
       ],
       "translation": {
-        "name": "Ru Erin's Chocobos",
-        "steamId": "2647305780",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2647305780",
+        "name": "Русский язык для Erin's Animals",
+        "steamId": "2778274892",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2778274892",
+        "authors": "PiaRex",
         "gameVersions": [
+          "1.6",
+          "1.5",
           "1.4",
           "1.3"
         ]
       },
       "alternatives": [
         {
-          "name": "Русский язык для Erin's Animals",
-          "steamId": "2778274892",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2778274892",
-          "authors": "PiaRex",
+          "name": "Ru Erin's Chocobos",
+          "steamId": "2647305780",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2647305780",
           "gameVersions": [
-            "1.6",
-            "1.5",
             "1.4",
             "1.3"
           ]
@@ -14735,26 +14609,26 @@
         "1.3"
       ],
       "translation": {
-        "name": "Ru Erin's Mountain Animals",
-        "steamId": "2439849255",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2439849255",
+        "name": "Русский язык для Erin's Animals",
+        "steamId": "2778274892",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2778274892",
+        "authors": "PiaRex",
         "gameVersions": [
-          "1.0",
-          "1.1",
-          "1.2",
+          "1.6",
+          "1.5",
           "1.4",
           "1.3"
         ]
       },
       "alternatives": [
         {
-          "name": "Русский язык для Erin's Animals",
-          "steamId": "2778274892",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2778274892",
-          "authors": "PiaRex",
+          "name": "Ru Erin's Mountain Animals",
+          "steamId": "2439849255",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2439849255",
           "gameVersions": [
-            "1.6",
-            "1.5",
+            "1.0",
+            "1.1",
+            "1.2",
             "1.4",
             "1.3"
           ]
@@ -14879,24 +14753,24 @@
         "1.3"
       ],
       "translation": {
-        "name": "Ru Erin's Wildlife",
-        "steamId": "2670974349",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2670974349",
+        "name": "Русский язык для Erin's Animals",
+        "steamId": "2778274892",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2778274892",
+        "authors": "PiaRex",
         "gameVersions": [
-          "1.2",
+          "1.6",
+          "1.5",
           "1.4",
           "1.3"
         ]
       },
       "alternatives": [
         {
-          "name": "Русский язык для Erin's Animals",
-          "steamId": "2778274892",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2778274892",
-          "authors": "PiaRex",
+          "name": "Ru Erin's Wildlife",
+          "steamId": "2670974349",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2670974349",
           "gameVersions": [
-            "1.6",
-            "1.5",
+            "1.2",
             "1.4",
             "1.3"
           ]
@@ -15103,27 +14977,14 @@
         "1.6"
       ],
       "translation": {
-        "name": "Exosuit Framework - Russian Translation",
-        "packageId": "valera.framework.translation.russian",
-        "steamId": "3541066556",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3541066556",
-        "authors": "ВАЛЕРА",
+        "name": "Exosuit Framework (Russian Language)",
+        "steamId": "3398202899",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3398202899",
         "gameVersions": [
           "1.5",
           "1.6"
         ]
-      },
-      "alternatives": [
-        {
-          "name": "Exosuit Framework (Russian Language)",
-          "steamId": "3398202899",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3398202899",
-          "gameVersions": [
-            "1.5",
-            "1.6"
-          ]
-        }
-      ]
+      }
     },
     {
       "name": "Exotic Arsenal",
@@ -15550,29 +15411,29 @@
         "1.4"
       ],
       "translation": {
-        "name": "Farmland [adopted] rus",
-        "packageId": "kamikadza13.mahrimba.farmland.adopted",
-        "steamId": "2884202085",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884202085",
+        "name": "QOL rus",
+        "packageId": "kamikadza13QOL.All",
+        "steamId": "2791163039",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
         "authors": "Kamikadza13",
         "gameVersions": [
-          "1.2",
           "1.3",
-          "1.4"
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "QOL rus",
-          "packageId": "kamikadza13QOL.All",
-          "steamId": "2791163039",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
+          "name": "Farmland [adopted] rus",
+          "packageId": "kamikadza13.mahrimba.farmland.adopted",
+          "steamId": "2884202085",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884202085",
           "authors": "Kamikadza13",
           "gameVersions": [
+            "1.2",
             "1.3",
-            "1.4",
-            "1.5",
-            "1.6"
+            "1.4"
           ]
         }
       ]
@@ -16133,28 +15994,28 @@
         "1.6"
       ],
       "translation": {
-        "name": "Filter Manager rus",
-        "packageId": "kamikadza13.jaxe.filtermanager",
-        "steamId": "2883094366",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2883094366",
+        "name": "QOL rus",
+        "packageId": "kamikadza13QOL.All",
+        "steamId": "2791163039",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
         "authors": "Kamikadza13",
         "gameVersions": [
           "1.3",
-          "1.4"
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "QOL rus",
-          "packageId": "kamikadza13QOL.All",
-          "steamId": "2791163039",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
+          "name": "Filter Manager rus",
+          "packageId": "kamikadza13.jaxe.filtermanager",
+          "steamId": "2883094366",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2883094366",
           "authors": "Kamikadza13",
           "gameVersions": [
             "1.3",
-            "1.4",
-            "1.5",
-            "1.6"
+            "1.4"
           ]
         }
       ]
@@ -17151,27 +17012,27 @@
         "1.6"
       ],
       "translation": {
-        "name": "Geological Landforms (Ru translation)",
-        "packageId": "nanamy.geologicallandformsru",
-        "steamId": "3290693787",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3290693787",
-        "authors": "Nanamy",
+        "name": "Geological Landforms Russian",
+        "packageId": "RU.NFD.GeplogicalLandforms",
+        "steamId": "2883904740",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2883904740",
+        "authors": "New Fat Dwarf",
         "gameVersions": [
-          "1.5"
+          "1.3",
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Geological Landforms Russian",
-          "packageId": "RU.NFD.GeplogicalLandforms",
-          "steamId": "2883904740",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2883904740",
-          "authors": "New Fat Dwarf",
+          "name": "Geological Landforms (Ru translation)",
+          "packageId": "nanamy.geologicallandformsru",
+          "steamId": "3290693787",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3290693787",
+          "authors": "Nanamy",
           "gameVersions": [
-            "1.3",
-            "1.4",
-            "1.5",
-            "1.6"
+            "1.5"
           ]
         },
         {
@@ -19431,18 +19292,31 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus Job In Bar",
-        "packageId": "am.rus.jobinbar",
-        "steamId": "2865199379",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2865199379",
-        "authors": "Animal Mind",
+        "name": "QOL rus",
+        "packageId": "kamikadza13QOL.All",
+        "steamId": "2791163039",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
+        "authors": "Kamikadza13",
         "gameVersions": [
-          "1.2",
           "1.3",
-          "1.4"
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
+        {
+          "name": "Rus Job In Bar",
+          "packageId": "am.rus.jobinbar",
+          "steamId": "2865199379",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2865199379",
+          "authors": "Animal Mind",
+          "gameVersions": [
+            "1.2",
+            "1.3",
+            "1.4"
+          ]
+        },
         {
           "name": "Job In Bar rus",
           "packageId": "kamikadza13.dark.jobinbar",
@@ -19454,19 +19328,6 @@
             "1.2",
             "1.3",
             "1.4"
-          ]
-        },
-        {
-          "name": "QOL rus",
-          "packageId": "kamikadza13QOL.All",
-          "steamId": "2791163039",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
-          "authors": "Kamikadza13",
-          "gameVersions": [
-            "1.3",
-            "1.4",
-            "1.5",
-            "1.6"
           ]
         }
       ]
@@ -19866,23 +19727,23 @@
         "1.6"
       ],
       "translation": {
-        "name": "Ru Kyulen - NinetailFox",
-        "steamId": "2675087052",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2675087052",
+        "name": "Kyulen - NinetailFox (Ru translation)",
+        "steamId": "3261098244",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3261098244",
         "gameVersions": [
-          "1.0",
-          "1.1",
-          "1.2",
-          "1.3"
+          "1.5"
         ]
       },
       "alternatives": [
         {
-          "name": "Kyulen - NinetailFox (Ru translation)",
-          "steamId": "3261098244",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3261098244",
+          "name": "Ru Kyulen - NinetailFox",
+          "steamId": "2675087052",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2675087052",
           "gameVersions": [
-            "1.5"
+            "1.0",
+            "1.1",
+            "1.2",
+            "1.3"
           ]
         }
       ]
@@ -21452,25 +21313,6 @@
       }
     },
     {
-      "name": "Medieval Adventures: Hunts",
-      "steamId": "3394688448",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3394688448",
-      "gameVersions": [
-        "1.6",
-        "1.5"
-      ],
-      "translation": {
-        "name": "Medieval Adventures: Hunts - перевод на русский язык",
-        "packageId": "serzhuk.seti.medieval.hunts",
-        "steamId": "3587510408",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3587510408",
-        "authors": "serzhuk",
-        "gameVersions": [
-          "1.5"
-        ]
-      }
-    },
-    {
       "name": "Medieval Adventures: Implants",
       "packageId": "seti.medieval.implants",
       "steamId": "3397035499",
@@ -22378,31 +22220,31 @@
         "1.6"
       ],
       "translation": {
-        "name": "Minimal Light Control rus",
-        "packageId": "Kamikadza13.kapitanoczywisty.minimallightcontrol",
-        "steamId": "2884195691",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884195691",
+        "name": "QOL rus",
+        "packageId": "kamikadza13QOL.All",
+        "steamId": "2791163039",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
         "authors": "Kamikadza13",
         "gameVersions": [
-          "1.0",
-          "1.1",
-          "1.2",
           "1.3",
-          "1.4"
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "QOL rus",
-          "packageId": "kamikadza13QOL.All",
-          "steamId": "2791163039",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
+          "name": "Minimal Light Control rus",
+          "packageId": "Kamikadza13.kapitanoczywisty.minimallightcontrol",
+          "steamId": "2884195691",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884195691",
           "authors": "Kamikadza13",
           "gameVersions": [
+            "1.0",
+            "1.1",
+            "1.2",
             "1.3",
-            "1.4",
-            "1.5",
-            "1.6"
+            "1.4"
           ]
         }
       ]
@@ -22421,28 +22263,28 @@
         "1.5"
       ],
       "translation": {
-        "name": "Mining Priority rus",
-        "steamId": "2782008255",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2782008255",
+        "name": "QOL rus",
+        "packageId": "kamikadza13QOL.All",
+        "steamId": "2791163039",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
+        "authors": "Kamikadza13",
         "gameVersions": [
-          "1.1",
-          "1.2",
+          "1.3",
           "1.4",
-          "1.3"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "QOL rus",
-          "packageId": "kamikadza13QOL.All",
-          "steamId": "2791163039",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
-          "authors": "Kamikadza13",
+          "name": "Mining Priority rus",
+          "steamId": "2782008255",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2782008255",
           "gameVersions": [
-            "1.3",
+            "1.1",
+            "1.2",
             "1.4",
-            "1.5",
-            "1.6"
+            "1.3"
           ]
         }
       ]
@@ -26246,29 +26088,15 @@
         "1.6"
       ],
       "translation": {
-        "name": "Power Poles [RU]",
-        "packageId": "serzhuk.co.uk.epicguru.rimforgepoles",
-        "steamId": "3592021684",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3592021684",
-        "authors": "serzhuk",
+        "name": "Power Poles [Ru]",
+        "packageId": "GR.rimforgepoles.ru",
+        "steamId": "3529496913",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3529496913",
+        "authors": "Gorious",
         "gameVersions": [
-          "1.4",
-          "1.5",
           "1.6"
         ]
-      },
-      "alternatives": [
-        {
-          "name": "Power Poles [Ru]",
-          "packageId": "GR.rimforgepoles.ru",
-          "steamId": "3529496913",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3529496913",
-          "authors": "Gorious",
-          "gameVersions": [
-            "1.6"
-          ]
-        }
-      ]
+      }
     },
     {
       "name": "Power Tab 2",
@@ -26670,16 +26498,29 @@
         "1.6"
       ],
       "translation": {
-        "name": "Prisoner Utils Руссификатор От Blotto",
-        "packageId": "blotto.kathanon.prisonerutil",
-        "steamId": "2864800239",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2864800239",
-        "authors": "Blotto",
+        "name": "QOL rus",
+        "packageId": "kamikadza13QOL.All",
+        "steamId": "2791163039",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
+        "authors": "Kamikadza13",
         "gameVersions": [
-          "1.3"
+          "1.3",
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
+        {
+          "name": "Prisoner Utils Руссификатор От Blotto",
+          "packageId": "blotto.kathanon.prisonerutil",
+          "steamId": "2864800239",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2864800239",
+          "authors": "Blotto",
+          "gameVersions": [
+            "1.3"
+          ]
+        },
         {
           "name": "Prisoner Utils rus",
           "packageId": "Kamikadza13.kathanon.PrisonerUtil",
@@ -26689,19 +26530,6 @@
           "gameVersions": [
             "1.3",
             "1.4"
-          ]
-        },
-        {
-          "name": "QOL rus",
-          "packageId": "kamikadza13QOL.All",
-          "steamId": "2791163039",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
-          "authors": "Kamikadza13",
-          "gameVersions": [
-            "1.3",
-            "1.4",
-            "1.5",
-            "1.6"
           ]
         }
       ]
@@ -31954,26 +31782,26 @@
         "1.4"
       ],
       "translation": {
-        "name": "Share The Load rus",
-        "steamId": "2782034796",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2782034796",
+        "name": "QOL rus",
+        "packageId": "kamikadza13QOL.All",
+        "steamId": "2791163039",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
+        "authors": "Kamikadza13",
         "gameVersions": [
+          "1.3",
           "1.4",
-          "1.3"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "QOL rus",
-          "packageId": "kamikadza13QOL.All",
-          "steamId": "2791163039",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
-          "authors": "Kamikadza13",
+          "name": "Share The Load rus",
+          "steamId": "2782034796",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2782034796",
           "gameVersions": [
-            "1.3",
             "1.4",
-            "1.5",
-            "1.6"
+            "1.3"
           ]
         }
       ]
@@ -32325,14 +32153,27 @@
         "1.4"
       ],
       "translation": {
-        "name": "Simple FX: Vapor Russian",
-        "steamId": "3096465013",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3096465013",
+        "name": "QOL rus",
+        "packageId": "kamikadza13QOL.All",
+        "steamId": "2791163039",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
+        "authors": "Kamikadza13",
         "gameVersions": [
-          "1.4"
+          "1.3",
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
+        {
+          "name": "Simple FX: Vapor Russian",
+          "steamId": "3096465013",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3096465013",
+          "gameVersions": [
+            "1.4"
+          ]
+        },
         {
           "name": "Rus Simple FX: Vapor",
           "steamId": "2887831674",
@@ -32342,19 +32183,6 @@
             "1.5",
             "1.4",
             "1.3"
-          ]
-        },
-        {
-          "name": "QOL rus",
-          "packageId": "kamikadza13QOL.All",
-          "steamId": "2791163039",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
-          "authors": "Kamikadza13",
-          "gameVersions": [
-            "1.3",
-            "1.4",
-            "1.5",
-            "1.6"
           ]
         }
       ]
@@ -33138,28 +32966,28 @@
         "1.6"
       ],
       "translation": {
-        "name": "Smart Meditation rus",
-        "packageId": "Kamikadza13.PureMJ.MjRimMods.SmartMeditation",
-        "steamId": "2884211366",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884211366",
+        "name": "QOL rus",
+        "packageId": "kamikadza13QOL.All",
+        "steamId": "2791163039",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
         "authors": "Kamikadza13",
         "gameVersions": [
           "1.3",
-          "1.4"
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "QOL rus",
-          "packageId": "kamikadza13QOL.All",
-          "steamId": "2791163039",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
+          "name": "Smart Meditation rus",
+          "packageId": "Kamikadza13.PureMJ.MjRimMods.SmartMeditation",
+          "steamId": "2884211366",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884211366",
           "authors": "Kamikadza13",
           "gameVersions": [
             "1.3",
-            "1.4",
-            "1.5",
-            "1.6"
+            "1.4"
           ]
         }
       ]
@@ -34441,11 +34269,25 @@
         "1.5"
       ],
       "translation": {
-        "name": "Tasty Armory - Core [RU]",
-        "packageId": "serzhuk.al9000.tastycore",
-        "steamId": "3589898673",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3589898673",
-        "authors": "serzhuk",
+        "name": "Tasty Armory Russian Language",
+        "steamId": "3644399233",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3644399233",
+        "authors": "YellowLight",
+        "gameVersions": [
+          "1.5",
+          "1.6"
+        ]
+      }
+    },
+    {
+      "name": "Tasty Armory - Fire and Steel",
+      "steamId": "3469863838",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3469863838",
+      "translation": {
+        "name": "Tasty Armory Russian Language",
+        "steamId": "3644399233",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3644399233",
+        "authors": "YellowLight",
         "gameVersions": [
           "1.5",
           "1.6"
@@ -34461,11 +34303,55 @@
         "1.5"
       ],
       "translation": {
-        "name": "Tasty Armory - High Medieval [RU]",
-        "packageId": "serzhuk.al9000.highmedieval",
-        "steamId": "3589486785",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3589486785",
-        "authors": "serzhuk",
+        "name": "Tasty Armory Russian Language",
+        "steamId": "3644399233",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3644399233",
+        "authors": "YellowLight",
+        "gameVersions": [
+          "1.5",
+          "1.6"
+        ]
+      }
+    },
+    {
+      "name": "Tasty Armory - In Shining Armor",
+      "steamId": "3482266407",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3482266407",
+      "translation": {
+        "name": "Tasty Armory Russian Language",
+        "steamId": "3644399233",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3644399233",
+        "authors": "YellowLight",
+        "gameVersions": [
+          "1.5",
+          "1.6"
+        ]
+      }
+    },
+    {
+      "name": "Tasty Armory - Sengoku",
+      "steamId": "3494429497",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3494429497",
+      "translation": {
+        "name": "Tasty Armory Russian Language",
+        "steamId": "3644399233",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3644399233",
+        "authors": "YellowLight",
+        "gameVersions": [
+          "1.5",
+          "1.6"
+        ]
+      }
+    },
+    {
+      "name": "Tasty Armory - Steppe Warriors",
+      "steamId": "3472989392",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3472989392",
+      "translation": {
+        "name": "Tasty Armory Russian Language",
+        "steamId": "3644399233",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3644399233",
+        "authors": "YellowLight",
         "gameVersions": [
           "1.5",
           "1.6"
@@ -35171,18 +35057,31 @@
         "1.6"
       ],
       "translation": {
-        "name": "This Is Mine (Continued) rus",
-        "packageId": "kamikadza13.mlie.thisismine",
-        "steamId": "2884217651",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884217651",
+        "name": "QOL rus",
+        "packageId": "kamikadza13QOL.All",
+        "steamId": "2791163039",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
         "authors": "Kamikadza13",
         "gameVersions": [
-          "1.2",
           "1.3",
-          "1.4"
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
+        {
+          "name": "This Is Mine (Continued) rus",
+          "packageId": "kamikadza13.mlie.thisismine",
+          "steamId": "2884217651",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884217651",
+          "authors": "Kamikadza13",
+          "gameVersions": [
+            "1.2",
+            "1.3",
+            "1.4"
+          ]
+        },
         {
           "name": "This Is Mine (Continued) rus",
           "steamId": "2782928676",
@@ -35191,19 +35090,6 @@
             "1.2",
             "1.4",
             "1.3"
-          ]
-        },
-        {
-          "name": "QOL rus",
-          "packageId": "kamikadza13QOL.All",
-          "steamId": "2791163039",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
-          "authors": "Kamikadza13",
-          "gameVersions": [
-            "1.3",
-            "1.4",
-            "1.5",
-            "1.6"
           ]
         }
       ]
@@ -35916,20 +35802,33 @@
         "1.6"
       ],
       "translation": {
-        "name": "Trade Ships Drop Spot rus",
-        "packageId": "kamikadza13.smashphil.dropspot",
-        "steamId": "2884216244",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884216244",
+        "name": "QOL rus",
+        "packageId": "kamikadza13QOL.All",
+        "steamId": "2791163039",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
         "authors": "Kamikadza13",
         "gameVersions": [
-          "1.0",
-          "1.1",
-          "1.2",
           "1.3",
-          "1.4"
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
+        {
+          "name": "Trade Ships Drop Spot rus",
+          "packageId": "kamikadza13.smashphil.dropspot",
+          "steamId": "2884216244",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884216244",
+          "authors": "Kamikadza13",
+          "gameVersions": [
+            "1.0",
+            "1.1",
+            "1.2",
+            "1.3",
+            "1.4"
+          ]
+        },
         {
           "name": "Trade Ships Drop Spot rus",
           "steamId": "2782698858",
@@ -35940,19 +35839,6 @@
             "1.2",
             "1.4",
             "1.3"
-          ]
-        },
-        {
-          "name": "QOL rus",
-          "packageId": "kamikadza13QOL.All",
-          "steamId": "2791163039",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
-          "authors": "Kamikadza13",
-          "gameVersions": [
-            "1.3",
-            "1.4",
-            "1.5",
-            "1.6"
           ]
         }
       ]
@@ -36694,26 +36580,6 @@
         "gameVersions": [
           "1.5",
           "1.4",
-          "1.6"
-        ]
-      }
-    },
-    {
-      "name": "Uranium Beaver",
-      "packageId": "trouperton.uraniumbeaver",
-      "steamId": "3583783172",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3583783172",
-      "authors": "Trouperton, Gangar4999",
-      "gameVersions": [
-        "1.6"
-      ],
-      "translation": {
-        "name": "Uranium Beaver rus",
-        "packageId": "trouperton.uraniumbeaver.rus",
-        "steamId": "3636503339",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3636503339",
-        "authors": "senselessfearfull",
-        "gameVersions": [
           "1.6"
         ]
       }
@@ -38475,32 +38341,18 @@
         "1.6"
       ],
       "translation": {
-        "name": "Vanilla Genetics Expanded - Русификатор",
-        "packageId": "Dmitry6.VanillaExpanded.VGeneticsE",
-        "steamId": "2805854947",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2805854947",
-        "authors": "Dmitry6",
+        "name": "Русский язык для Vanilla Genetics Expanded",
+        "packageId": "piarex.vgetranslationrus",
+        "steamId": "2869438250",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2869438250",
+        "authors": "PiaRex",
         "gameVersions": [
+          "1.3",
           "1.4",
           "1.5",
           "1.6"
         ]
-      },
-      "alternatives": [
-        {
-          "name": "Русский язык для Vanilla Genetics Expanded",
-          "packageId": "piarex.vgetranslationrus",
-          "steamId": "2869438250",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2869438250",
-          "authors": "PiaRex",
-          "gameVersions": [
-            "1.3",
-            "1.4",
-            "1.5",
-            "1.6"
-          ]
-        }
-      ]
+      }
     },
     {
       "name": "Vanilla Genetics Expanded - More Lab Stuff",
@@ -41534,30 +41386,30 @@
         "1.4"
       ],
       "translation": {
-        "name": "Wearing Armor Info rus",
-        "steamId": "2893528199",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2893528199",
+        "name": "QOL rus",
+        "packageId": "kamikadza13QOL.All",
+        "steamId": "2791163039",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
+        "authors": "Kamikadza13",
         "gameVersions": [
-          "1.0",
-          "1.1",
-          "1.2",
-          "1.5",
+          "1.3",
           "1.4",
-          "1.3"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "QOL rus",
-          "packageId": "kamikadza13QOL.All",
-          "steamId": "2791163039",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
-          "authors": "Kamikadza13",
+          "name": "Wearing Armor Info rus",
+          "steamId": "2893528199",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2893528199",
           "gameVersions": [
-            "1.3",
-            "1.4",
+            "1.0",
+            "1.1",
+            "1.2",
             "1.5",
-            "1.6"
+            "1.4",
+            "1.3"
           ]
         }
       ]
@@ -42540,24 +42392,24 @@
         "1.6"
       ],
       "translation": {
-        "name": "Ru Yuran race",
-        "packageId": "hellest.rooandgloomy.yuranracemod",
-        "steamId": "2882203814",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2882203814",
-        "authors": "Hellest",
+        "name": "Yuran race (Russian language)",
+        "steamId": "3261704871",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3261704871",
         "gameVersions": [
-          "1.3",
-          "1.4"
+          "1.6",
+          "1.5"
         ]
       },
       "alternatives": [
         {
-          "name": "Yuran race (Russian language)",
-          "steamId": "3261704871",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3261704871",
+          "name": "Ru Yuran race",
+          "packageId": "hellest.rooandgloomy.yuranracemod",
+          "steamId": "2882203814",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2882203814",
+          "authors": "Hellest",
           "gameVersions": [
-            "1.6",
-            "1.5"
+            "1.3",
+            "1.4"
           ]
         }
       ]
