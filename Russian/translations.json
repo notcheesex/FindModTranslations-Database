@@ -1,5 +1,5 @@
 {
-  "version": 1778417421,
+  "version": 1778429981,
   "updatedAt": "2026-05-10",
   "language": "Russian",
   "aliases": [
@@ -354,12 +354,14 @@
       }
     },
     {
-      "name": "[1.4] Luciferium Expansion",
-      "steamId": "2809422332",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2809422332",
+      "name": "Ushankas Luciferium Expansion",
+      "steamId": "3227008885",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3227008885",
       "gameVersions": [
+        "1.3",
         "1.4",
-        "1.3"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Luciferium Expansion - Русификатор",
@@ -373,7 +375,9 @@
           "1.5",
           "1.6"
         ]
-      }
+      },
+      "packageId": "ushanka.luciferiumexpansion",
+      "authors": "Ushanka"
     },
     {
       "name": "[1.4] Ordo Tempestus - Tempestus Scions",
@@ -2147,18 +2151,11 @@
       }
     },
     {
-      "name": "[Legacy] UN-Colony (Continued)",
-      "packageId": "mlie.uncolony",
-      "steamId": "2019774245",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2019774245",
-      "authors": "Mlie",
+      "name": "UN-Colony (Continued)",
+      "steamId": "3501284735",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3501284735",
       "gameVersions": [
-        "1.0",
-        "1.1",
-        "1.2",
-        "1.3",
-        "1.4",
-        "1.5"
+        "1.6"
       ],
       "translation": {
         "name": "Коллекция русских переводов RusPack",
@@ -13137,13 +13134,12 @@
       }
     },
     {
-      "name": "Dumbs' Dachshunds",
-      "steamId": "2603863207",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2603863207",
+      "name": "Dumbs' Dachshunds (Continued)",
+      "steamId": "3646509270",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3646509270",
       "gameVersions": [
-        "1.2",
-        "1.4",
-        "1.3"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Русский язык для Erin's Animals",
@@ -26913,16 +26909,12 @@
       ]
     },
     {
-      "name": "Quality Colors 1.5 - Forked",
-      "packageId": "tr.qualcolor",
-      "steamId": "3224462440",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3224462440",
-      "authors": "tiagorbrodrigues",
+      "name": "Quality Colors - Hex",
+      "steamId": "3453459423",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3453459423",
       "gameVersions": [
-        "1.2",
-        "1.3",
-        "1.4",
-        "1.5"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "QOL rus",
