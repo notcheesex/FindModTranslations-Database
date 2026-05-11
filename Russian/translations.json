@@ -1,6 +1,6 @@
 {
-  "version": 1778432887,
-  "updatedAt": "2026-05-10",
+  "version": 1778511574,
+  "updatedAt": "2026-05-11",
   "language": "Russian",
   "aliases": [
     "Russian (GitHub)"
@@ -206,13 +206,15 @@
       ]
     },
     {
-      "name": "4M Mehni's Misc Modifications [1.2-1.4]",
-      "steamId": "2228765246",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2228765246",
+      "name": "4M Mehni's Misc Modifications (Continued)",
+      "steamId": "3352204451",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3352204451",
       "gameVersions": [
         "1.2",
+        "1.5",
         "1.4",
-        "1.3"
+        "1.3",
+        "1.6"
       ],
       "translation": {
         "name": "4M Mehni's Misc Modifications Russian Language",
@@ -354,32 +356,6 @@
       }
     },
     {
-      "name": "Ushankas Luciferium Expansion",
-      "steamId": "3227008885",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3227008885",
-      "gameVersions": [
-        "1.3",
-        "1.4",
-        "1.5",
-        "1.6"
-      ],
-      "translation": {
-        "name": "Luciferium Expansion - Русификатор",
-        "packageId": "Dasreich666.RusLuciferiumExpansion",
-        "steamId": "2810495261",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2810495261",
-        "authors": "Dasreich666",
-        "gameVersions": [
-          "1.3",
-          "1.4",
-          "1.5",
-          "1.6"
-        ]
-      },
-      "packageId": "ushanka.luciferiumexpansion",
-      "authors": "Ushanka"
-    },
-    {
       "name": "[1.4] Ordo Tempestus - Tempestus Scions",
       "packageId": "odz.40k.ordotempestus.tempestusscions",
       "steamId": "2863051392",
@@ -496,6 +472,29 @@
       }
     },
     {
+      "name": "[1.6&Adaptive Storage][JDS] Simple Storage - Refrigeration 大冰箱重置",
+      "steamId": "3409926131",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3409926131",
+      "gameVersions": [
+        "1.6",
+        "1.5"
+      ],
+      "translation": {
+        "name": "[JDS] Simple Storage - Refrigeration rus",
+        "steamId": "2784978683",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2784978683",
+        "gameVersions": [
+          "1.5",
+          "1.6",
+          "1.4",
+          "1.3",
+          "1.2",
+          "1.1",
+          "1.0"
+        ]
+      }
+    },
+    {
       "name": "[1.6] JobsLimitsTweak",
       "packageId": "nestofmoon.jobslimittweak",
       "steamId": "1266811081",
@@ -526,6 +525,56 @@
           "1.9"
         ]
       }
+    },
+    {
+      "name": "[1.6] Moyo - Light in the Abyss",
+      "steamId": "3241061880",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3241061880",
+      "gameVersions": [
+        "1.5",
+        "1.6"
+      ],
+      "translation": {
+        "name": "Moyo-Light in the Abyss ru",
+        "steamId": "2943203291",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2943203291",
+        "gameVersions": [
+          "1.5",
+          "1.4",
+          "1.3",
+          "1.6"
+        ]
+      }
+    },
+    {
+      "name": "[1.6] Moyo - The Cartel Arrives",
+      "steamId": "3241067462",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3241067462",
+      "gameVersions": [
+        "1.5",
+        "1.6"
+      ],
+      "translation": {
+        "name": "Moyo-The cartel arrives ru",
+        "steamId": "2912002380",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2912002380",
+        "gameVersions": [
+          "1.5",
+          "1.4",
+          "1.6"
+        ]
+      },
+      "alternatives": [
+        {
+          "name": "Moyo-The cartel arrives - Русский Язык",
+          "steamId": "2992849503",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2992849503",
+          "gameVersions": [
+            "1.4",
+            "1.3"
+          ]
+        }
+      ]
     },
     {
       "name": "[1.6] Neb's Electricity Meter",
@@ -653,34 +702,6 @@
       }
     },
     {
-      "name": "[ABANDONED] Ambition of the Cosmic",
-      "steamId": "1802857253",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1802857253",
-      "gameVersions": [
-        "1.5"
-      ],
-      "translation": {
-        "name": "Ambition of the Cosmic на русском языке",
-        "steamId": "3429991140",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3429991140",
-        "gameVersions": [
-          "1.6",
-          "1.5"
-        ]
-      },
-      "alternatives": [
-        {
-          "name": "Ru Science Never Stops: Ambition of the Cosmic",
-          "steamId": "2635948787",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2635948787",
-          "gameVersions": [
-            "1.4",
-            "1.3"
-          ]
-        }
-      ]
-    },
-    {
       "name": "[AP] Plaguemonger Meme",
       "steamId": "2608992845",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2608992845",
@@ -729,10 +750,8 @@
       ],
       "translation": {
         "name": "[AV] Framework - Russian Translation",
-        "packageId": "cheesex.ru.Veltaris.Framework",
         "steamId": "3340647988",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3340647988",
-        "authors": "cheesex",
         "gameVersions": [
           "1.5",
           "1.6"
@@ -773,13 +792,11 @@
       ],
       "translation": {
         "name": "[AV] Mechtech - Russian Translation",
-        "packageId": "cheesex.ru.Mechtech",
         "steamId": "3340649366",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3340649366",
-        "authors": "cheesex",
         "gameVersions": [
-          "1.5",
-          "1.6"
+          "1.6",
+          "1.5"
         ]
       }
     },
@@ -1742,34 +1759,6 @@
       }
     },
     {
-      "name": "[JDS] Simple Storage - Refrigeration",
-      "packageId": "jangodsoul.simplestorage.ref",
-      "steamId": "2029207212",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2029207212",
-      "authors": "JangoD'soul",
-      "gameVersions": [
-        "1.0",
-        "1.1",
-        "1.2",
-        "1.3",
-        "1.4"
-      ],
-      "translation": {
-        "name": "[JDS] Simple Storage - Refrigeration rus",
-        "steamId": "2784978683",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2784978683",
-        "gameVersions": [
-          "1.5",
-          "1.6",
-          "1.4",
-          "1.3",
-          "1.2",
-          "1.1",
-          "1.0"
-        ]
-      }
-    },
-    {
       "name": "[JF] Geometric Floors",
       "packageId": "jf.geometricfloors",
       "steamId": "2863525144",
@@ -1792,6 +1781,32 @@
           "1.4",
           "1.5",
           "1.6"
+        ]
+      }
+    },
+    {
+      "name": "[JPT] Open The Windows",
+      "packageId": "jpt.openthewindows",
+      "steamId": "1971860929",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1971860929",
+      "authors": "jptrrs",
+      "gameVersions": [
+        "1.1",
+        "1.2",
+        "1.3",
+        "1.4",
+        "1.5",
+        "1.6"
+      ],
+      "translation": {
+        "name": "Rus Windows",
+        "steamId": "2613922401",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2613922401",
+        "gameVersions": [
+          "1.2",
+          "1.5",
+          "1.4",
+          "1.3"
         ]
       }
     },
@@ -1892,13 +1907,14 @@
       ],
       "translation": {
         "name": "[Kit] Just A Flesh Wound rus",
+        "packageId": "Kamikadza13.kittahkhan.justafleshwound",
         "steamId": "2937613237",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2937613237",
-        "authors": "kamikadza13",
+        "authors": "Kamikadza13",
         "gameVersions": [
-          "1.5",
-          "1.4",
           "1.3",
+          "1.4",
+          "1.5",
           "1.6"
         ]
       },
@@ -2061,116 +2077,28 @@
       }
     },
     {
-      "name": "[Legacy] Aquarium (Continued)",
-      "steamId": "2194463553",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2194463553",
-      "gameVersions": [
-        "1.1",
-        "1.2",
-        "1.5",
-        "1.4",
-        "1.3"
-      ],
-      "translation": {
-        "name": "Aquarium (Continued) (Ru translation)",
-        "packageId": "nanamy.aquariumru",
-        "steamId": "3325892812",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3325892812",
-        "authors": "Nanamy",
-        "gameVersions": [
-          "1.5"
-        ]
-      }
-    },
-    {
-      "name": "[Legacy] Colonists' Deco (Continued)",
-      "steamId": "2894674825",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2894674825",
-      "gameVersions": [
-        "1.2",
-        "1.3",
-        "1.4",
-        "1.5"
-      ],
-      "translation": {
-        "name": "Colonists' Deco (Continued) rus",
-        "steamId": "2949646247",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2949646247",
-        "gameVersions": [
-          "1.5",
-          "1.6",
-          "1.4",
-          "1.3",
-          "1.2"
-        ]
-      }
-    },
-    {
-      "name": "[LEGACY] Extended Bioengineering for VFE Insectoids",
-      "steamId": "2706534548",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2706534548",
-      "gameVersions": [
-        "1.4",
-        "1.3"
-      ],
-      "translation": {
-        "name": "Extended Bioengineering for VFE Insectoids ru",
-        "steamId": "2895519585",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2895519585",
-        "gameVersions": [
-          "1.5",
-          "1.4",
-          "1.3",
-          "1.6"
-        ]
-      }
-    },
-    {
-      "name": "[Legacy] Nature's Pretty Sweet (Continued)",
-      "steamId": "2532618635",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2532618635",
+      "name": "[LC] Selectable Sculpture Graphic",
+      "packageId": "lc.tammybee.selectablesculpturegraphic",
+      "steamId": "3239359525",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3239359525",
+      "authors": "Luca",
       "gameVersions": [
         "1.0",
         "1.1",
         "1.2",
         "1.3",
         "1.4",
-        "1.5"
-      ],
-      "translation": {
-        "name": "Ru Nature's Pretty Sweet",
-        "steamId": "2643884518",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2643884518",
-        "gameVersions": [
-          "1.0",
-          "1.1",
-          "1.2",
-          "1.4",
-          "1.3"
-        ]
-      }
-    },
-    {
-      "name": "UN-Colony (Continued)",
-      "steamId": "3501284735",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3501284735",
-      "gameVersions": [
+        "1.5",
         "1.6"
       ],
       "translation": {
-        "name": "Коллекция русских переводов RusPack",
-        "packageId": "dmitry6.RusPack",
-        "steamId": "2802167053",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802167053",
-        "authors": "Dmitry6",
+        "name": "Selectable Sculpture Graphic ru zh",
+        "steamId": "2898470239",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2898470239",
         "gameVersions": [
-          "1.3",
-          "1.4",
           "1.5",
-          "1.6",
-          "1.7",
-          "1.8",
-          "1.9"
+          "1.4",
+          "1.6"
         ]
       }
     },
@@ -2333,7 +2261,7 @@
       ],
       "translation": {
         "name": "[MUS]哥特式吸血鬼家具 Gothicstyle Vampire Furniture  [RUS] [РУС]",
-        "packageId": "mic.gothicdecorative",
+        "packageId": "Mic.GothicDecorative",
         "steamId": "3524089093",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3524089093",
         "authors": "Micharduio",
@@ -2419,15 +2347,13 @@
       "alternatives": [
         {
           "name": "Rus [NL] Facial Animation",
-          "packageId": "Am.Rus.FacialAnimation",
           "steamId": "2961668476",
           "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2961668476",
-          "authors": "Animal Mind",
           "gameVersions": [
             "1.2",
-            "1.3",
+            "1.5",
             "1.4",
-            "1.5"
+            "1.3"
           ]
         }
       ]
@@ -2510,28 +2436,6 @@
           "1.4",
           "1.3",
           "1.6"
-        ]
-      }
-    },
-    {
-      "name": "[Outdated] Call of Cthulhu - Cosmic Horrors [Deprecated]",
-      "steamId": "765890823",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=765890823",
-      "gameVersions": [
-        "1.0",
-        "1.1",
-        "1.2",
-        "1.4",
-        "1.3"
-      ],
-      "translation": {
-        "name": "Rus Call of Cthulhu - Cosmic Horrors",
-        "steamId": "2425546169",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425546169",
-        "gameVersions": [
-          "1.2",
-          "1.4",
-          "1.3"
         ]
       }
     },
@@ -3264,12 +3168,14 @@
     },
     {
       "name": "[RWY]Dragon's Descent: Void Dwellers",
-      "steamId": "2185295561",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2185295561",
+      "steamId": "3349058179",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3349058179",
       "gameVersions": [
-        "1.2",
+        "1.6",
+        "1.5",
         "1.4",
-        "1.3"
+        "1.3",
+        "1.2"
       ],
       "translation": {
         "name": "Dragon's Descent: Void Dwellers - Russian",
@@ -3342,13 +3248,11 @@
       ],
       "translation": {
         "name": "[sbz] pack [RU]",
-        "packageId": "sbz.pack.ru",
         "steamId": "3655388627",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3655388627",
-        "authors": "Takida",
         "gameVersions": [
-          "1.5",
-          "1.6"
+          "1.6",
+          "1.5"
         ]
       },
       "alternatives": [
@@ -3388,7 +3292,7 @@
       ],
       "translation": {
         "name": "Adaptive Storage Mod Repository [RUS] [РУС]",
-        "packageId": "micharduio.adaptive.storage.repository",
+        "packageId": "Micharduio.adaptive.storage.Repository",
         "steamId": "3631031082",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631031082",
         "authors": "Micharduio",
@@ -3401,13 +3305,11 @@
       "alternatives": [
         {
           "name": "[sbz] pack [RU]",
-          "packageId": "sbz.pack.ru",
           "steamId": "3655388627",
           "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3655388627",
-          "authors": "Takida",
           "gameVersions": [
-            "1.5",
-            "1.6"
+            "1.6",
+            "1.5"
           ]
         },
         {
@@ -3434,21 +3336,35 @@
         "1.6"
       ],
       "translation": {
-        "name": "Коллекция русских переводов RusPack",
-        "packageId": "dmitry6.RusPack",
-        "steamId": "2802167053",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802167053",
-        "authors": "Dmitry6",
+        "name": "Adaptive Storage Mod Repository [RUS] [РУС]",
+        "packageId": "Micharduio.adaptive.storage.Repository",
+        "steamId": "3631031082",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631031082",
+        "authors": "Micharduio",
         "gameVersions": [
-          "1.3",
           "1.4",
           "1.5",
-          "1.6",
-          "1.7",
-          "1.8",
-          "1.9"
+          "1.6"
         ]
-      }
+      },
+      "alternatives": [
+        {
+          "name": "Коллекция русских переводов RusPack",
+          "packageId": "dmitry6.RusPack",
+          "steamId": "2802167053",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802167053",
+          "authors": "Dmitry6",
+          "gameVersions": [
+            "1.3",
+            "1.4",
+            "1.5",
+            "1.6",
+            "1.7",
+            "1.8",
+            "1.9"
+          ]
+        }
+      ]
     },
     {
       "name": "[sbz] Workbench Shelf",
@@ -3462,13 +3378,11 @@
       ],
       "translation": {
         "name": "[sbz] pack [RU]",
-        "packageId": "sbz.pack.ru",
         "steamId": "3655388627",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3655388627",
-        "authors": "Takida",
         "gameVersions": [
-          "1.5",
-          "1.6"
+          "1.6",
+          "1.5"
         ]
       }
     },
@@ -4196,7 +4110,7 @@
       ],
       "translation": {
         "name": "Adaptive Storage Mod Repository [RUS] [РУС]",
-        "packageId": "micharduio.adaptive.storage.repository",
+        "packageId": "Micharduio.adaptive.storage.Repository",
         "steamId": "3631031082",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631031082",
         "authors": "Micharduio",
@@ -4219,7 +4133,7 @@
       ],
       "translation": {
         "name": "Adaptive Storage Mod Repository [RUS] [РУС]",
-        "packageId": "micharduio.adaptive.storage.repository",
+        "packageId": "Micharduio.adaptive.storage.Repository",
         "steamId": "3631031082",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631031082",
         "authors": "Micharduio",
@@ -4242,7 +4156,7 @@
       ],
       "translation": {
         "name": "Adaptive Storage Mod Repository [RUS] [РУС]",
-        "packageId": "micharduio.adaptive.storage.repository",
+        "packageId": "Micharduio.adaptive.storage.Repository",
         "steamId": "3631031082",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631031082",
         "authors": "Micharduio",
@@ -4255,7 +4169,7 @@
       "alternatives": [
         {
           "name": "Adaptive Primitive Storage [RUS] [РУС]",
-          "packageId": "Adaptive.PrimitiveStorage.ru",
+          "packageId": "adaptive.primitivestorage.ru",
           "steamId": "3513821972",
           "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3513821972",
           "authors": "Micharduio",
@@ -4279,7 +4193,7 @@
       ],
       "translation": {
         "name": "Adaptive Storage Mod Repository [RUS] [РУС]",
-        "packageId": "micharduio.adaptive.storage.repository",
+        "packageId": "Micharduio.adaptive.storage.Repository",
         "steamId": "3631031082",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631031082",
         "authors": "Micharduio",
@@ -4313,6 +4227,30 @@
           "1.7",
           "1.8",
           "1.9"
+        ]
+      }
+    },
+    {
+      "name": "Adaptive Storage Framework",
+      "packageId": "adaptive.storage.framework",
+      "steamId": "3033901359",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3033901359",
+      "authors": "Soul, Phaneron, Bradson",
+      "gameVersions": [
+        "1.4",
+        "1.5",
+        "1.6"
+      ],
+      "translation": {
+        "name": "Adaptive Storage Mod Repository [RUS] [РУС]",
+        "packageId": "Micharduio.adaptive.storage.Repository",
+        "steamId": "3631031082",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631031082",
+        "authors": "Micharduio",
+        "gameVersions": [
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       }
     },
@@ -4809,9 +4747,11 @@
         "1.5"
       ],
       "translation": {
-        "name": "Alpha Genes (Ru translation)",
+        "name": "Alpha Genes (Russian Language)",
+        "packageId": "Nanamy.AlphaGenesRu",
         "steamId": "3422211247",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3422211247",
+        "authors": "Nanamy, FarTresh",
         "gameVersions": [
           "1.5",
           "1.6"
@@ -5147,7 +5087,7 @@
       ],
       "translation": {
         "name": "Altered Carbon 2: ReSleeved - Русификатор",
-        "packageId": "dmitry6.hlx.ultratechalteredcarbon",
+        "packageId": "Dmitry6.hlx.UltratechAlteredCarbon",
         "steamId": "3605429170",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3605429170",
         "authors": "Dmitry6",
@@ -5168,6 +5108,35 @@
             "1.2",
             "1.3",
             "1.4"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ambition of the Cosmic [Continued]",
+      "steamId": "3379479793",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3379479793",
+      "gameVersions": [
+        "1.6",
+        "1.5"
+      ],
+      "translation": {
+        "name": "Ambition of the Cosmic на русском языке",
+        "steamId": "3429991140",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3429991140",
+        "gameVersions": [
+          "1.6",
+          "1.5"
+        ]
+      },
+      "alternatives": [
+        {
+          "name": "Ru Science Never Stops: Ambition of the Cosmic",
+          "steamId": "2635948787",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2635948787",
+          "gameVersions": [
+            "1.4",
+            "1.3"
           ]
         }
       ]
@@ -5485,15 +5454,13 @@
       }
     },
     {
-      "name": "Androids Expanded",
-      "packageId": "peptide.androidsexpanded",
-      "steamId": "2559677674",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2559677674",
-      "authors": "Peptide",
+      "name": "Androids Expanded for RW 1.6",
+      "steamId": "2890036704",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2890036704",
       "gameVersions": [
-        "1.1",
-        "1.2",
-        "1.3"
+        "1.5",
+        "1.4",
+        "1.6"
       ],
       "translation": {
         "name": "Ru Androids Expanded",
@@ -5810,10 +5777,8 @@
       ],
       "translation": {
         "name": "Animal Traits System - Русификатор (4в1)",
-        "packageId": "Dmitry6.luved.animaltraits",
         "steamId": "3660007081",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3660007081",
-        "authors": "Dmitry6",
         "gameVersions": [
           "1.6"
         ]
@@ -6092,6 +6057,24 @@
       }
     },
     {
+      "name": "Aquarium (Continued)",
+      "steamId": "3544186181",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3544186181",
+      "gameVersions": [
+        "1.6"
+      ],
+      "translation": {
+        "name": "Aquarium (Continued) (Ru translation)",
+        "packageId": "nanamy.aquariumru",
+        "steamId": "3325892812",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3325892812",
+        "authors": "Nanamy",
+        "gameVersions": [
+          "1.5"
+        ]
+      }
+    },
+    {
       "name": "Aquatic Repopulation",
       "packageId": "bart.wbe",
       "steamId": "3575912544",
@@ -6149,14 +6132,15 @@
       }
     },
     {
-      "name": "Arasaka Corporation",
-      "steamId": "2349566282",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2349566282",
+      "name": "Arasaka Corporation (Continued)",
+      "steamId": "3571093776",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3571093776",
       "gameVersions": [
-        "1.2",
+        "1.6",
         "1.5",
         "1.4",
-        "1.3"
+        "1.3",
+        "1.2"
       ],
       "translation": {
         "name": "Ru Arasaka Corporation",
@@ -6491,14 +6475,12 @@
       ],
       "translation": {
         "name": "Asimov rus",
-        "packageId": "Sinoptick.Neronix17.Asimov",
         "steamId": "3474844117",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3474844117",
-        "authors": "Sinoptick",
         "gameVersions": [
-          "1.4",
+          "1.6",
           "1.5",
-          "1.6"
+          "1.4"
         ]
       }
     },
@@ -6869,14 +6851,12 @@
       ],
       "translation": {
         "name": "AutoExtractGenes rus",
-        "packageId": "Kamikadza13.Nibato.AutoExtractGenes",
         "steamId": "2943302045",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2943302045",
-        "authors": "Kamikadza13",
         "gameVersions": [
-          "1.4",
           "1.5",
-          "1.6"
+          "1.6",
+          "1.4"
         ]
       },
       "alternatives": [
@@ -7020,20 +7000,18 @@
     },
     {
       "name": "Bandage Wraps 1.6 (Fork)",
-      "packageId": "sk.bandagewrap",
       "steamId": "3535716415",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3535716415",
-      "authors": "Crudbone",
       "gameVersions": [
-        "1.2",
-        "1.3",
-        "1.4",
+        "1.6",
         "1.5",
-        "1.6"
+        "1.4",
+        "1.3",
+        "1.2"
       ],
       "translation": {
         "name": "RusWorld - Bandage Wraps (Continued)",
-        "packageId": "Mindew.BandageWrap",
+        "packageId": "mindew.bandagewrap",
         "steamId": "2594648483",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2594648483",
         "authors": "Mindew",
@@ -7394,14 +7372,12 @@
       ],
       "translation": {
         "name": "BetterInfoCard rus",
-        "packageId": "Kamikadza13.Creeper.BetterInfoCard",
         "steamId": "2891001972",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2891001972",
-        "authors": "Kamikadza13",
         "gameVersions": [
-          "1.4",
           "1.5",
-          "1.6"
+          "1.6",
+          "1.4"
         ]
       },
       "alternatives": [
@@ -7938,7 +7914,7 @@
       ],
       "translation": {
         "name": "RusWorld - Bill Doors' Wolf Girl Gene",
-        "packageId": "Mindew.wolf.gene.rus",
+        "packageId": "mindew.wolf.gene.rus",
         "steamId": "2878646068",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2878646068",
         "authors": "Mindew",
@@ -7984,27 +7960,6 @@
         "gameVersions": [
           "1.5",
           "1.4"
-        ]
-      }
-    },
-    {
-      "name": "Biomes! Caveworld Flora Unleashed",
-      "steamId": "2432710051",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2432710051",
-      "gameVersions": [
-        "1.2",
-        "1.4",
-        "1.3"
-      ],
-      "translation": {
-        "name": "Caveworld Flora Unleashed — Русификатор",
-        "packageId": "dmitry6.ruscavewf",
-        "steamId": "2846890893",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2846890893",
-        "authors": "Dmitry6",
-        "gameVersions": [
-          "1.2",
-          "1.3"
         ]
       }
     },
@@ -8544,11 +8499,14 @@
     },
     {
       "name": "Blooming hedges",
-      "steamId": "3146921182",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3146921182",
+      "packageId": "sov.visanderhedge",
+      "steamId": "3535147693",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3535147693",
+      "authors": "Sovereign and Visander",
       "gameVersions": [
+        "1.4",
         "1.5",
-        "1.4"
+        "1.6"
       ],
       "translation": {
         "name": "Blooming hedges rus",
@@ -9138,6 +9096,26 @@
       }
     },
     {
+      "name": "Call of Cthulhu - Cosmic Horrors (Continued)",
+      "packageId": "zal.cocch",
+      "steamId": "3615542371",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3615542371",
+      "authors": "Jecrell",
+      "gameVersions": [
+        "1.6"
+      ],
+      "translation": {
+        "name": "Rus Call of Cthulhu - Cosmic Horrors",
+        "steamId": "2425546169",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425546169",
+        "gameVersions": [
+          "1.2",
+          "1.4",
+          "1.3"
+        ]
+      }
+    },
+    {
       "name": "Callouts",
       "packageId": "bratwurstinator.callouts",
       "steamId": "2882283988",
@@ -9500,7 +9478,7 @@
       ],
       "translation": {
         "name": "Adaptive Storage Mod Repository [RUS] [РУС]",
-        "packageId": "micharduio.adaptive.storage.repository",
+        "packageId": "Micharduio.adaptive.storage.Repository",
         "steamId": "3631031082",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631031082",
         "authors": "Micharduio",
@@ -9559,12 +9537,13 @@
       }
     },
     {
-      "name": "Carryalls | Intercontinental Transport",
-      "steamId": "2901034783",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2901034783",
+      "name": "Carryalls | Intercontinental Transport (Continued)",
+      "steamId": "3642349335",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3642349335",
       "gameVersions": [
+        "1.4",
         "1.5",
-        "1.4"
+        "1.6"
       ],
       "translation": {
         "name": "Carryalls | Intercontinental Transport rus",
@@ -9601,14 +9580,12 @@
       ],
       "translation": {
         "name": "Gastronomy + Сash Register ru",
-        "packageId": "Gastronomy.RU",
         "steamId": "2888532017",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2888532017",
-        "authors": "Nevelian",
         "gameVersions": [
-          "1.3",
-          "1.4",
           "1.5",
+          "1.4",
+          "1.3",
           "1.6"
         ]
       }
@@ -9622,22 +9599,20 @@
         "1.6"
       ],
       "translation": {
-        "name": "Cat's Boots and Gloves - Русский язык",
-        "packageId": "m9bayonet.BaGtransl",
-        "steamId": "3553069078",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3553069078",
-        "authors": "m9bayonet",
+        "name": "Cat's Boots and Gloves RUS",
+        "packageId": "gutelbergn.catsbootsandglovesrus",
+        "steamId": "3556788715",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3556788715",
+        "authors": "Gutelbergn",
         "gameVersions": [
           "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Cat's Boots and Gloves RUS",
-          "packageId": "gutelbergn.catsbootsandglovesrus",
-          "steamId": "3556788715",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3556788715",
-          "authors": "Gutelbergn",
+          "name": "Cat's Boots and Gloves - Русский язык",
+          "steamId": "3553069078",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3553069078",
           "gameVersions": [
             "1.6"
           ]
@@ -9662,6 +9637,29 @@
           "1.6",
           "1.5",
           "1.4",
+          "1.3"
+        ]
+      }
+    },
+    {
+      "name": "Caveworld Flora Unleashed",
+      "steamId": "3409043551",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3409043551",
+      "gameVersions": [
+        "1.6",
+        "1.5",
+        "1.4",
+        "1.3",
+        "1.2"
+      ],
+      "translation": {
+        "name": "Caveworld Flora Unleashed — Русификатор",
+        "packageId": "dmitry6.ruscavewf",
+        "steamId": "2846890893",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2846890893",
+        "authors": "Dmitry6",
+        "gameVersions": [
+          "1.2",
           "1.3"
         ]
       }
@@ -9834,8 +9832,10 @@
     },
     {
       "name": "Cherry Picker",
+      "packageId": "owlchemist.cherrypicker",
       "steamId": "3521312241",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3521312241",
+      "authors": "Owlchemist",
       "gameVersions": [
         "1.3",
         "1.4",
@@ -9854,16 +9854,18 @@
           "1.4",
           "1.5"
         ]
-      },
-      "packageId": "owlchemist.cherrypicker",
-      "authors": "Owlchemist"
+      }
     },
     {
       "name": "Chicken Nests",
-      "steamId": "2894277691",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2894277691",
+      "packageId": "owlchemist.chickennests",
+      "steamId": "3261309547",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3261309547",
+      "authors": "Owlchemist",
       "gameVersions": [
-        "1.4"
+        "1.4",
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Rus Chicken Nests",
@@ -10313,6 +10315,28 @@
       }
     },
     {
+      "name": "Colonists' Deco (Continued)",
+      "packageId": "mlie.colonistsdeco",
+      "steamId": "3511154027",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3511154027",
+      "authors": "Abe Vriens",
+      "gameVersions": [
+        "1.6"
+      ],
+      "translation": {
+        "name": "Colonists' Deco (Continued) rus",
+        "steamId": "2949646247",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2949646247",
+        "gameVersions": [
+          "1.5",
+          "1.6",
+          "1.4",
+          "1.3",
+          "1.2"
+        ]
+      }
+    },
+    {
       "name": "Colored deep resources",
       "packageId": "kikohi.coloreddeepresources",
       "steamId": "3203269467",
@@ -10653,16 +10677,12 @@
       }
     },
     {
-      "name": "Communicable Diseases [1.4]",
-      "packageId": "onegative.communicablediseases",
-      "steamId": "2016577520",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2016577520",
-      "authors": "O Negative",
+      "name": "Communicable Diseases [1.5-1.6]",
+      "steamId": "3263015203",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3263015203",
       "gameVersions": [
-        "1.1",
-        "1.2",
-        "1.3",
-        "1.4"
+        "1.6",
+        "1.5"
       ],
       "translation": {
         "name": "Ru Communicable Diseases [1.4]",
@@ -11398,7 +11418,7 @@
       ],
       "translation": {
         "name": "Dark Ages: Beasts and Monsters [RU]",
-        "packageId": "serzhuk.Van.Beasts",
+        "packageId": "serzhuk.van.beasts",
         "steamId": "3591472052",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3591472052",
         "authors": "serzhuk",
@@ -11432,10 +11452,8 @@
         },
         {
           "name": "Dark Ages : Beasts and Monsters RUS",
-          "packageId": "renjinale.RUS.Van.Beasts",
           "steamId": "3474445421",
           "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3474445421",
-          "authors": "renjinale",
           "gameVersions": [
             "1.5"
           ]
@@ -11814,17 +11832,15 @@
       ],
       "translation": {
         "name": "Designator Shapes rus",
-        "packageId": "Kamikadza13.Merthsoft.DesignatorShapes",
         "steamId": "3128857702",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3128857702",
-        "authors": "Kamikadza13",
         "gameVersions": [
-          "1.1",
-          "1.2",
-          "1.3",
-          "1.4",
           "1.5",
-          "1.6"
+          "1.6",
+          "1.4",
+          "1.3",
+          "1.2",
+          "1.1"
         ]
       },
       "alternatives": [
@@ -11965,13 +11981,11 @@
       ],
       "translation": {
         "name": "Det's Xenotypes - Stoneborn rus",
-        "packageId": "Kindest.det.stoneborn",
         "steamId": "3225058241",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3225058241",
-        "authors": "Kindest",
         "gameVersions": [
-          "1.4",
-          "1.5"
+          "1.5",
+          "1.4"
         ]
       },
       "alternatives": [
@@ -12053,14 +12067,15 @@
       ],
       "translation": {
         "name": "Русский язык для Erin's Animals",
+        "packageId": "PiaRex.ErinsAnimalsTranslationRus",
         "steamId": "2778274892",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2778274892",
         "authors": "PiaRex",
         "gameVersions": [
-          "1.6",
-          "1.5",
+          "1.3",
           "1.4",
-          "1.3"
+          "1.5",
+          "1.6"
         ]
       }
     },
@@ -12878,15 +12893,19 @@
       }
     },
     {
-      "name": "Dual Wield",
-      "steamId": "1628211313",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1628211313",
+      "name": "Dual Wield - Continued",
+      "packageId": "memegoddess.dualwield",
+      "steamId": "3630049419",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3630049419",
+      "authors": "Meme Goddess",
       "gameVersions": [
         "1.0",
         "1.1",
         "1.2",
+        "1.3",
         "1.4",
-        "1.3"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Dual Wield ru",
@@ -13145,19 +13164,20 @@
       "steamId": "3646509270",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3646509270",
       "gameVersions": [
-        "1.5",
-        "1.6"
+        "1.6",
+        "1.5"
       ],
       "translation": {
         "name": "Русский язык для Erin's Animals",
+        "packageId": "PiaRex.ErinsAnimalsTranslationRus",
         "steamId": "2778274892",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2778274892",
         "authors": "PiaRex",
         "gameVersions": [
-          "1.6",
-          "1.5",
+          "1.3",
           "1.4",
-          "1.3"
+          "1.5",
+          "1.6"
         ]
       }
     },
@@ -13595,7 +13615,7 @@
       ],
       "translation": {
         "name": "Eccentric Tech - Defense Grid rus",
-        "packageId": "Apofis.Aelanna.EccentricTech.DefenseGrid",
+        "packageId": "apofis.aelanna.eccentrictech.defensegrid",
         "steamId": "3557189539",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3557189539",
         "authors": "Apofis",
@@ -14348,14 +14368,15 @@
       ],
       "translation": {
         "name": "Русский язык для Erin's Animals",
+        "packageId": "PiaRex.ErinsAnimalsTranslationRus",
         "steamId": "2778274892",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2778274892",
         "authors": "PiaRex",
         "gameVersions": [
-          "1.6",
-          "1.5",
+          "1.3",
           "1.4",
-          "1.3"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
@@ -14442,18 +14463,16 @@
       ],
       "translation": {
         "name": "Erin's Fluffy Fauna Russian Language",
-        "packageId": "st.rusik.ErinFluffyFaunaRu",
         "steamId": "3573675907",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3573675907",
-        "authors": "st.rusik",
         "gameVersions": [
-          "1.0",
-          "1.1",
-          "1.2",
-          "1.3",
-          "1.4",
+          "1.6",
           "1.5",
-          "1.6"
+          "1.4",
+          "1.3",
+          "1.2",
+          "1.1",
+          "1.0"
         ]
       }
     },
@@ -14474,14 +14493,15 @@
       ],
       "translation": {
         "name": "Русский язык для Erin's Animals",
+        "packageId": "PiaRex.ErinsAnimalsTranslationRus",
         "steamId": "2778274892",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2778274892",
         "authors": "PiaRex",
         "gameVersions": [
-          "1.6",
-          "1.5",
+          "1.3",
           "1.4",
-          "1.3"
+          "1.5",
+          "1.6"
         ]
       }
     },
@@ -14497,14 +14517,15 @@
       ],
       "translation": {
         "name": "Русский язык для Erin's Animals",
+        "packageId": "PiaRex.ErinsAnimalsTranslationRus",
         "steamId": "2778274892",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2778274892",
         "authors": "PiaRex",
         "gameVersions": [
-          "1.6",
-          "1.5",
+          "1.3",
           "1.4",
-          "1.3"
+          "1.5",
+          "1.6"
         ]
       }
     },
@@ -14520,14 +14541,15 @@
       ],
       "translation": {
         "name": "Русский язык для Erin's Animals",
+        "packageId": "PiaRex.ErinsAnimalsTranslationRus",
         "steamId": "2778274892",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2778274892",
         "authors": "PiaRex",
         "gameVersions": [
-          "1.6",
-          "1.5",
+          "1.3",
           "1.4",
-          "1.3"
+          "1.5",
+          "1.6"
         ]
       }
     },
@@ -14568,14 +14590,15 @@
       ],
       "translation": {
         "name": "Русский язык для Erin's Animals",
+        "packageId": "PiaRex.ErinsAnimalsTranslationRus",
         "steamId": "2778274892",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2778274892",
         "authors": "PiaRex",
         "gameVersions": [
-          "1.6",
-          "1.5",
+          "1.3",
           "1.4",
-          "1.3"
+          "1.5",
+          "1.6"
         ]
       }
     },
@@ -14593,14 +14616,15 @@
       ],
       "translation": {
         "name": "Русский язык для Erin's Animals",
+        "packageId": "PiaRex.ErinsAnimalsTranslationRus",
         "steamId": "2778274892",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2778274892",
         "authors": "PiaRex",
         "gameVersions": [
-          "1.6",
-          "1.5",
+          "1.3",
           "1.4",
-          "1.3"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
@@ -14631,14 +14655,15 @@
       ],
       "translation": {
         "name": "Русский язык для Erin's Animals",
+        "packageId": "PiaRex.ErinsAnimalsTranslationRus",
         "steamId": "2778274892",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2778274892",
         "authors": "PiaRex",
         "gameVersions": [
-          "1.6",
-          "1.5",
+          "1.3",
           "1.4",
-          "1.3"
+          "1.5",
+          "1.6"
         ]
       }
     },
@@ -14737,14 +14762,15 @@
       ],
       "translation": {
         "name": "Русский язык для Erin's Animals",
+        "packageId": "PiaRex.ErinsAnimalsTranslationRus",
         "steamId": "2778274892",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2778274892",
         "authors": "PiaRex",
         "gameVersions": [
-          "1.6",
-          "1.5",
+          "1.3",
           "1.4",
-          "1.3"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
@@ -15200,6 +15226,28 @@
       }
     },
     {
+      "name": "Extended Bioengineering for VFE Insectoids (Continued)",
+      "packageId": "zal.extendedbioengineering",
+      "steamId": "3621508730",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3621508730",
+      "authors": "Zaljerem",
+      "gameVersions": [
+        "1.5",
+        "1.6"
+      ],
+      "translation": {
+        "name": "Extended Bioengineering for VFE Insectoids ru",
+        "steamId": "2895519585",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2895519585",
+        "gameVersions": [
+          "1.5",
+          "1.4",
+          "1.3",
+          "1.6"
+        ]
+      }
+    },
+    {
       "name": "Extended Storage",
       "steamId": "731732064",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=731732064",
@@ -15279,29 +15327,6 @@
         "authors": "_BERSERKER_",
         "gameVersions": [
           "1.6"
-        ]
-      }
-    },
-    {
-      "name": "Fallout Races: Playable Ghoul (Continued)",
-      "steamId": "2343993193",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2343993193",
-      "gameVersions": [
-        "1.0",
-        "1.1",
-        "1.2",
-        "1.4",
-        "1.3"
-      ],
-      "translation": {
-        "name": "Ru Fallout Races: Playable Ghoul (Continued)",
-        "steamId": "2450280822",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2450280822",
-        "gameVersions": [
-          "1.0",
-          "1.1",
-          "1.2",
-          "1.3"
         ]
       }
     },
@@ -15600,6 +15625,28 @@
           "1.5",
           "1.4",
           "1.6"
+        ]
+      }
+    },
+    {
+      "name": "FCP - Fallout Races: Playable Ghoul (Continued)",
+      "packageId": "zal.falloutracesplayableghoul",
+      "steamId": "3288435857",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3288435857",
+      "authors": "Zaljerem",
+      "gameVersions": [
+        "1.5",
+        "1.6"
+      ],
+      "translation": {
+        "name": "Ru Fallout Races: Playable Ghoul (Continued)",
+        "steamId": "2450280822",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2450280822",
+        "gameVersions": [
+          "1.0",
+          "1.1",
+          "1.2",
+          "1.3"
         ]
       }
     },
@@ -16010,15 +16057,13 @@
       ]
     },
     {
-      "name": "Filthy Orc Invasion (Continued)",
-      "steamId": "2178698397",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2178698397",
+      "name": "Filthy Orc Invasion [+]",
+      "packageId": "mlie.filthyorcinvasionz",
+      "steamId": "3628391913",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3628391913",
+      "authors": "Hokum",
       "gameVersions": [
-        "1.0",
-        "1.1",
-        "1.2",
-        "1.4",
-        "1.3"
+        "1.6"
       ],
       "translation": {
         "name": "Filthy Orc Invasion (Continued) rus",
@@ -16332,11 +16377,14 @@
       }
     },
     {
-      "name": "Forgelings race",
-      "steamId": "2615824324",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2615824324",
+      "name": "Forgelings Race (Continued)",
+      "packageId": "zal.forgelingsrace",
+      "steamId": "3307456484",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3307456484",
+      "authors": "Zaljerem",
       "gameVersions": [
-        "1.3"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Ru Forgelings race",
@@ -16370,12 +16418,13 @@
       }
     },
     {
-      "name": "Forgotten Realms - Lizardfolk",
-      "steamId": "2417383578",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2417383578",
+      "name": "Forgotten Realms - Lizardfolk (Continued)",
+      "steamId": "3146993377",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3146993377",
       "gameVersions": [
-        "1.2",
-        "1.3"
+        "1.6",
+        "1.5",
+        "1.4"
       ],
       "translation": {
         "name": "Forgotten Realms - Lizardfolk rus",
@@ -16437,13 +16486,12 @@
       }
     },
     {
-      "name": "Forsakens",
-      "steamId": "1728999127",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1728999127",
+      "name": "Forsakens (Continued)",
+      "steamId": "3263003456",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3263003456",
       "gameVersions": [
-        "1.2",
-        "1.4",
-        "1.3"
+        "1.6",
+        "1.5"
       ],
       "translation": {
         "name": "Ru Forsakens",
@@ -16778,30 +16826,6 @@
       ]
     },
     {
-      "name": "Gastronomy",
-      "steamId": "2279786905",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2279786905",
-      "gameVersions": [
-        "1.2",
-        "1.5",
-        "1.4",
-        "1.3"
-      ],
-      "translation": {
-        "name": "Gastronomy + Сash Register ru",
-        "packageId": "Gastronomy.RU",
-        "steamId": "2888532017",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2888532017",
-        "authors": "Nevelian",
-        "gameVersions": [
-          "1.3",
-          "1.4",
-          "1.5",
-          "1.6"
-        ]
-      }
-    },
-    {
       "name": "Gastronomy (Continued)",
       "packageId": "orion.gastronomy",
       "steamId": "3509488152",
@@ -16812,14 +16836,12 @@
       ],
       "translation": {
         "name": "Gastronomy + Сash Register ru",
-        "packageId": "Gastronomy.RU",
         "steamId": "2888532017",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2888532017",
-        "authors": "Nevelian",
         "gameVersions": [
-          "1.3",
-          "1.4",
           "1.5",
+          "1.4",
+          "1.3",
           "1.6"
         ]
       }
@@ -17016,7 +17038,7 @@
       "alternatives": [
         {
           "name": "Geological Landforms (Ru translation)",
-          "packageId": "nanamy.geologicallandformsru",
+          "packageId": "Nanamy.GeologicalLandformsRu",
           "steamId": "3290693787",
           "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3290693787",
           "authors": "Nanamy",
@@ -17089,7 +17111,7 @@
       ],
       "translation": {
         "name": "Gestalt Engine - Русский Язык",
-        "packageId": "FarTresh.hlx.GestaltEngine",
+        "packageId": "fartresh.hlx.gestaltengine",
         "steamId": "3043457705",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3043457705",
         "authors": "FarTresh",
@@ -17686,12 +17708,14 @@
       }
     },
     {
-      "name": "Gulden Mod",
-      "steamId": "2786007888",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2786007888",
+      "name": "Gulden Biome (Continued)",
+      "packageId": "pphhyy.guldennew",
+      "steamId": "3607066070",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3607066070",
+      "authors": "pphhyy,Sovereign,Elseud",
       "gameVersions": [
-        "1.4",
-        "1.3"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Gulden Mod [RUS]",
@@ -17940,12 +17964,15 @@
       }
     },
     {
-      "name": "Heavy Melee Weapons - Discontinued",
-      "steamId": "2418407014",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2418407014",
+      "name": "Heavy Melee Weapons (Continued)",
+      "steamId": "2932628115",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2932628115",
       "gameVersions": [
         "1.2",
-        "1.3"
+        "1.3",
+        "1.4",
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Ru Heavy Melee Weapons",
@@ -18130,41 +18157,20 @@
         "1.6"
       ],
       "translation": {
-        "name": "Перевод Hospital на русский язык",
-        "packageId": "Jicenok.Adamas.Hospital",
-        "steamId": "2994637110",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2994637110",
-        "authors": "Jicenok",
+        "name": "Hospital ru",
+        "packageId": "Nevelian.Adamas.Hospital",
+        "steamId": "2995064273",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2995064273",
+        "authors": "Nevelian",
         "gameVersions": [
-          "1.6"
+          "1.4",
+          "1.5",
+          "1.6",
+          "1.7",
+          "1.8"
         ]
       },
       "alternatives": [
-        {
-          "name": "Русификатор Hospital",
-          "packageId": "Vi.RUs.Hospital",
-          "steamId": "3578511237",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3578511237",
-          "authors": "Vi Pok",
-          "gameVersions": [
-            "1.5",
-            "1.6"
-          ]
-        },
-        {
-          "name": "Hospital ru",
-          "packageId": "Nevelian.Adamas.Hospital",
-          "steamId": "2995064273",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2995064273",
-          "authors": "Nevelian",
-          "gameVersions": [
-            "1.4",
-            "1.5",
-            "1.6",
-            "1.7",
-            "1.8"
-          ]
-        },
         {
           "name": "Hospital RU",
           "packageId": "EL.HOSPITAL.RU",
@@ -18175,6 +18181,23 @@
             "1.4",
             "1.5",
             "1.6"
+          ]
+        },
+        {
+          "name": "Русификатор Hospital",
+          "steamId": "3578511237",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3578511237",
+          "gameVersions": [
+            "1.6",
+            "1.5"
+          ]
+        },
+        {
+          "name": "Перевод Hospital на русский язык",
+          "steamId": "2994637110",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2994637110",
+          "gameVersions": [
+            "1.4"
           ]
         }
       ]
@@ -19423,13 +19446,13 @@
       }
     },
     {
-      "name": "Kenshi Armory",
-      "steamId": "2271106264",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2271106264",
+      "name": "Kenshi Armory (1.4+)",
+      "steamId": "2886236013",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2886236013",
       "gameVersions": [
-        "1.1",
-        "1.2",
-        "1.3"
+        "1.6",
+        "1.5",
+        "1.4"
       ],
       "translation": {
         "name": "Ru Kenshi Armory",
@@ -20185,7 +20208,7 @@
       ],
       "translation": {
         "name": "Adaptive Storage Mod Repository [RUS] [РУС]",
-        "packageId": "micharduio.adaptive.storage.repository",
+        "packageId": "Micharduio.adaptive.storage.Repository",
         "steamId": "3631031082",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631031082",
         "authors": "Micharduio",
@@ -20212,15 +20235,18 @@
     },
     {
       "name": "LWM's Deep Storage",
-      "steamId": "1617282896",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1617282896",
+      "packageId": "lwm.deepstorage",
+      "steamId": "3532608331",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3532608331",
+      "authors": "Little White Mouse",
       "gameVersions": [
         "1.0",
         "1.1",
         "1.2",
-        "1.5",
+        "1.3",
         "1.4",
-        "1.3"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "LWM's Deep Storage rus",
@@ -20342,13 +20368,13 @@
       }
     },
     {
-      "name": "Male- and Female- Only Genes",
-      "packageId": "xenofell.maleandfemaleonlygenes",
-      "steamId": "2879538186",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2879538186",
-      "authors": "Sea",
+      "name": "Male- and Female- Only Genes Continued",
+      "steamId": "3249501807",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3249501807",
       "gameVersions": [
-        "1.4"
+        "1.5",
+        "1.4",
+        "1.6"
       ],
       "translation": {
         "name": "RusWorld - Male- and Female- Only Genes",
@@ -21455,14 +21481,6 @@
       },
       "alternatives": [
         {
-          "name": "Medieval Overhaul - RU СРЕДНЕВЕКОВЬЕ",
-          "steamId": "3438553877",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3438553877",
-          "gameVersions": [
-            "1.5"
-          ]
-        },
-        {
           "name": "Medieval Overhaul - Русификатор",
           "steamId": "2812992901",
           "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2812992901",
@@ -21471,6 +21489,14 @@
             "1.4",
             "1.3",
             "1.6"
+          ]
+        },
+        {
+          "name": "Medieval Overhaul - RU СРЕДНЕВЕКОВЬЕ",
+          "steamId": "3438553877",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3438553877",
+          "gameVersions": [
+            "1.5"
           ]
         }
       ]
@@ -21564,11 +21590,14 @@
       }
     },
     {
-      "name": "Medieval Tailor",
-      "steamId": "2929259187",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2929259187",
+      "name": "Medieval Tailor Continued",
+      "packageId": "tinda.medieval.tailor.continued",
+      "steamId": "3512201406",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3512201406",
+      "authors": "Tinda",
       "gameVersions": [
-        "1.4"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Medievel Tailor ru",
@@ -21613,13 +21642,14 @@
       ],
       "translation": {
         "name": "Русский язык для Megafauna",
+        "packageId": "PiaRex.MegafaunaTranslationRus",
         "steamId": "2675868020",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2675868020",
         "authors": "PiaRex",
         "gameVersions": [
-          "1.5",
-          "1.4",
           "1.3",
+          "1.4",
+          "1.5",
           "1.6"
         ]
       }
@@ -21753,12 +21783,16 @@
       }
     },
     {
-      "name": "Metal Rim Rising",
-      "steamId": "2802023013",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802023013",
+      "name": "Metal Rim Rising (Continued)",
+      "packageId": "mlie.metalrimrising",
+      "steamId": "3296073915",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3296073915",
+      "authors": "crazedmonkey231",
       "gameVersions": [
+        "1.3",
         "1.4",
-        "1.3"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Metal Rim Rising ru",
@@ -22211,7 +22245,7 @@
       "alternatives": [
         {
           "name": "Minimal Light Control rus",
-          "packageId": "Kamikadza13.kapitanoczywisty.minimallightcontrol",
+          "packageId": "kamikadza13.kapitanoczywisty.minimallightcontrol",
           "steamId": "2884195691",
           "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884195691",
           "authors": "Kamikadza13",
@@ -22320,7 +22354,7 @@
       ],
       "translation": {
         "name": "Misc. Robots++ - Russian Translation",
-        "packageId": "cheesex.ru.MiscRobots.PlusPlus",
+        "packageId": "cheesex.ru.miscrobots.plusplus",
         "steamId": "3333470939",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3333470939",
         "authors": "cheesex",
@@ -23016,15 +23050,16 @@
       }
     },
     {
-      "name": "More Planning [1.5]",
-      "packageId": "com.github.alandariva.moreplanning",
-      "steamId": "2551225702",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2551225702",
+      "name": "More Planning (Continued)",
+      "packageId": "mlie.moreplanning",
+      "steamId": "3554743746",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3554743746",
       "authors": "Alan Dariva, Usagirei",
       "gameVersions": [
         "1.3",
         "1.4",
-        "1.5"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Rus More Planning",
@@ -23140,13 +23175,11 @@
       ],
       "translation": {
         "name": "Ru More Ritual Rewards",
-        "packageId": "Ru.Sinnamon.MoreRitualRewards",
         "steamId": "2675087420",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2675087420",
-        "authors": "Hellest",
         "gameVersions": [
-          "1.3",
-          "1.4"
+          "1.4",
+          "1.3"
         ]
       }
     },
@@ -23319,16 +23352,19 @@
       }
     },
     {
-      "name": "More Traits",
-      "steamId": "2489644195",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2489644195",
+      "name": "More Traits (Continued)",
+      "packageId": "chaosdeadeye.moretraits",
+      "steamId": "3561579189",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3561579189",
+      "authors": "chaosdeadeye",
       "gameVersions": [
         "1.0",
         "1.1",
         "1.2",
-        "1.5",
+        "1.3",
         "1.4",
-        "1.3"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "More Traits Russian Language",
@@ -23383,13 +23419,14 @@
       }
     },
     {
-      "name": "More Utility Packs",
-      "steamId": "2357611837",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2357611837",
+      "name": "More Utility Packs (Continued)",
+      "packageId": "zal.moreutilitypacks",
+      "steamId": "3249560356",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3249560356",
+      "authors": "Zaljerem",
       "gameVersions": [
-        "1.2",
-        "1.4",
-        "1.3"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "More Utility Packs ru",
@@ -23457,13 +23494,12 @@
       }
     },
     {
-      "name": "Morphs Assorted: Unique and Rare Items",
-      "steamId": "2473951034",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2473951034",
+      "name": "Morph's Assorted: Unique and Rare Items (Continued)",
+      "steamId": "3547824946",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3547824946",
       "gameVersions": [
-        "1.2",
-        "1.4",
-        "1.3"
+        "1.6",
+        "1.5"
       ],
       "translation": {
         "name": "RusWorld - Unique and Rare Items",
@@ -23557,56 +23593,6 @@
           "gameVersions": [
             "1.1",
             "1.2",
-            "1.4",
-            "1.3"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Moyo-Light in the Abyss",
-      "steamId": "2730090328",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2730090328",
-      "gameVersions": [
-        "1.4",
-        "1.3"
-      ],
-      "translation": {
-        "name": "Moyo-Light in the Abyss ru",
-        "steamId": "2943203291",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2943203291",
-        "gameVersions": [
-          "1.5",
-          "1.4",
-          "1.3",
-          "1.6"
-        ]
-      }
-    },
-    {
-      "name": "Moyo-The cartel arrives",
-      "steamId": "2822103470",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2822103470",
-      "gameVersions": [
-        "1.4",
-        "1.3"
-      ],
-      "translation": {
-        "name": "Moyo-The cartel arrives ru",
-        "steamId": "2912002380",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2912002380",
-        "gameVersions": [
-          "1.5",
-          "1.4",
-          "1.6"
-        ]
-      },
-      "alternatives": [
-        {
-          "name": "Moyo-The cartel arrives - Русский Язык",
-          "steamId": "2992849503",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2992849503",
-          "gameVersions": [
             "1.4",
             "1.3"
           ]
@@ -23886,7 +23872,7 @@
       ],
       "translation": {
         "name": "Mythic Ages: Megafauna Bestiary Rus",
-        "packageId": "RavenBlindRage.veterano.mythicages.megafaunabestiary",
+        "packageId": "ravenblindrage.veterano.mythicages.megafaunabestiary",
         "steamId": "3542663003",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3542663003",
         "authors": "RavenBlindRage",
@@ -24008,6 +23994,26 @@
           "1.4",
           "1.3",
           "1.6"
+        ]
+      }
+    },
+    {
+      "name": "Nature's Pretty Sweet (Continued)",
+      "steamId": "3542949511",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3542949511",
+      "gameVersions": [
+        "1.6"
+      ],
+      "translation": {
+        "name": "Ru Nature's Pretty Sweet",
+        "steamId": "2643884518",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2643884518",
+        "gameVersions": [
+          "1.0",
+          "1.1",
+          "1.2",
+          "1.4",
+          "1.3"
         ]
       }
     },
@@ -24155,10 +24161,8 @@
       ],
       "translation": {
         "name": "Niilo's QoL Russian Language",
-        "packageId": "RU.pashka.Niilo007.NiilosQoL",
         "steamId": "2709171708",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2709171708",
-        "authors": "pashka",
         "gameVersions": [
           "1.5"
         ]
@@ -24279,17 +24283,15 @@
       ],
       "translation": {
         "name": "Vanilla Storytellers Expanded Russian Language Pack",
-        "packageId": "OW.RU.VSE",
         "steamId": "2150723779",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2150723779",
-        "authors": "OliveWizard",
         "gameVersions": [
-          "1.1",
-          "1.2",
-          "1.3",
-          "1.4",
+          "1.6",
           "1.5",
-          "1.6"
+          "1.4",
+          "1.3",
+          "1.2",
+          "1.1"
         ]
       }
     },
@@ -24505,14 +24507,15 @@
       ],
       "translation": {
         "name": "Русский язык для Erin's Animals",
+        "packageId": "PiaRex.ErinsAnimalsTranslationRus",
         "steamId": "2778274892",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2778274892",
         "authors": "PiaRex",
         "gameVersions": [
-          "1.6",
-          "1.5",
+          "1.3",
           "1.4",
-          "1.3"
+          "1.5",
+          "1.6"
         ]
       }
     },
@@ -25433,30 +25436,35 @@
         "1.6"
       ],
       "translation": {
+        "name": "Rus Permeable Terrain",
+        "packageId": "Am.Rus.PermeableTerrain",
+        "steamId": "3278849386",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3278849386",
+        "authors": "Animal Mind",
+        "gameVersions": [
+          "1.2",
+          "1.3",
+          "1.4",
+          "1.5"
+        ]
+      }
+    },
+    {
+      "name": "Permeable Terrain",
+      "steamId": "2629981384",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2629981384",
+      "gameVersions": [
+        "1.4",
+        "1.3"
+      ],
+      "translation": {
         "name": "Permeable Terrain Russian",
-        "packageId": "shuoQi.RU.PermeableTerrain",
         "steamId": "3096461246",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3096461246",
-        "authors": "shuoQi",
         "gameVersions": [
           "1.4"
         ]
-      },
-      "alternatives": [
-        {
-          "name": "Rus Permeable Terrain",
-          "packageId": "Am.Rus.PermeableTerrain",
-          "steamId": "3278849386",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3278849386",
-          "authors": "Animal Mind",
-          "gameVersions": [
-            "1.2",
-            "1.3",
-            "1.4",
-            "1.5"
-          ]
-        }
-      ]
+      }
     },
     {
       "name": "Perspective: Buildings",
@@ -25520,10 +25528,14 @@
     },
     {
       "name": "Perspective: Ores",
-      "steamId": "2923871543",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2923871543",
+      "packageId": "owlchemist.perspectiveores",
+      "steamId": "3261312865",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3261312865",
+      "authors": "Owlchemist",
       "gameVersions": [
-        "1.4"
+        "1.4",
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Rus Perspective: Ores",
@@ -25559,12 +25571,34 @@
       ],
       "translation": {
         "name": "Perspective: Paths (unlisted) Russian",
-        "packageId": "shuoQi.RU.PerspectivePaths",
         "steamId": "3095292015",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3095292015",
-        "authors": "shuoQi",
         "gameVersions": [
           "1.4"
+        ]
+      }
+    },
+    {
+      "name": "Phaneron's Basic Storage",
+      "packageId": "phaneron.basic.storage",
+      "steamId": "3201536200",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3201536200",
+      "authors": "P, h, a, n, e, r, o, n",
+      "gameVersions": [
+        "1.4",
+        "1.5",
+        "1.6"
+      ],
+      "translation": {
+        "name": "Adaptive Storage Mod Repository [RUS] [РУС]",
+        "packageId": "Micharduio.adaptive.storage.Repository",
+        "steamId": "3631031082",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631031082",
+        "authors": "Micharduio",
+        "gameVersions": [
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       }
     },
@@ -25865,13 +25899,11 @@
       ],
       "translation": {
         "name": "Portraits of the Rim ru",
-        "packageId": "Nevelian.TwoPenny.PortraitsOfTheRim",
         "steamId": "2944019642",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2944019642",
-        "authors": "Nevelian",
         "gameVersions": [
-          "1.4",
           "1.5",
+          "1.4",
           "1.6"
         ]
       }
@@ -26451,7 +26483,7 @@
         },
         {
           "name": "Prisoner Utils rus",
-          "packageId": "Kamikadza13.kathanon.PrisonerUtil",
+          "packageId": "kamikadza13.kathanon.prisonerutil",
           "steamId": "2864641674",
           "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2864641674",
           "authors": "Kamikadza13",
@@ -26529,7 +26561,7 @@
       ],
       "translation": {
         "name": "Progenitor Mechanoid (Continued) Rus",
-        "packageId": "RamboGTTH.Mlie.ProgenitorMechanoid",
+        "packageId": "rambogtth.mlie.progenitormechanoid",
         "steamId": "3580893056",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3580893056",
         "authors": "RamboGTTH",
@@ -26572,7 +26604,7 @@
       ],
       "translation": {
         "name": "Progression: Warrants rus",
-        "packageId": "soloo.ferny.progressionwarrants",
+        "packageId": "Soloo.ferny.progressionwarrants",
         "steamId": "3624328765",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3624328765",
         "authors": "Soloo",
@@ -26837,7 +26869,7 @@
       ],
       "translation": {
         "name": "Adaptive Storage Mod Repository [RUS] [РУС]",
-        "packageId": "micharduio.adaptive.storage.repository",
+        "packageId": "Micharduio.adaptive.storage.Repository",
         "steamId": "3631031082",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631031082",
         "authors": "Micharduio",
@@ -26887,7 +26919,7 @@
       ],
       "translation": {
         "name": "Quality Colors rus",
-        "packageId": "Kamikadza13.legodude17.qualcolor",
+        "packageId": "kamikadza13.legodude17.qualcolor",
         "steamId": "2884194468",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884194468",
         "authors": "Kamikadza13",
@@ -26920,8 +26952,8 @@
       "steamId": "3453459423",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3453459423",
       "gameVersions": [
-        "1.5",
-        "1.6"
+        "1.6",
+        "1.5"
       ],
       "translation": {
         "name": "QOL rus",
@@ -26952,16 +26984,14 @@
       ],
       "translation": {
         "name": "Quality Overlay rus",
-        "packageId": "Kamikadza13.telardo.QualityOverlay",
         "steamId": "2938582917",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2938582917",
-        "authors": "Kamikadza13",
         "gameVersions": [
-          "1.2",
-          "1.3",
-          "1.4",
           "1.5",
-          "1.6"
+          "1.6",
+          "1.4",
+          "1.3",
+          "1.2"
         ]
       },
       "alternatives": [
@@ -27109,10 +27139,12 @@
       }
     },
     {
-      "name": "Quiet Instruments",
-      "steamId": "2639723693",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2639723693",
+      "name": "Quiet Instruments Continued",
+      "steamId": "3261313462",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3261313462",
       "gameVersions": [
+        "1.6",
+        "1.5",
         "1.4",
         "1.3"
       ],
@@ -27190,25 +27222,6 @@
         "gameVersions": [
           "1.4",
           "1.5"
-        ]
-      }
-    },
-    {
-      "name": "Rails and Roads of the Rim",
-      "steamId": "2896163437",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2896163437",
-      "gameVersions": [
-        "1.4",
-        "1.3"
-      ],
-      "translation": {
-        "name": "Rails and Roads of the Rim rus",
-        "steamId": "2898234144",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2898234144",
-        "gameVersions": [
-          "1.5",
-          "1.4",
-          "1.3"
         ]
       }
     },
@@ -27712,15 +27725,13 @@
       "alternatives": [
         {
           "name": "Rus Realistic Rooms",
-          "packageId": "am.rus.realisticrooms",
           "steamId": "2425557300",
           "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425557300",
-          "authors": "Animal Mind",
           "gameVersions": [
             "1.2",
-            "1.3",
+            "1.5",
             "1.4",
-            "1.5"
+            "1.3"
           ]
         }
       ]
@@ -27830,7 +27841,7 @@
       ],
       "translation": {
         "name": "Adaptive Storage Mod Repository [RUS] [РУС]",
-        "packageId": "micharduio.adaptive.storage.repository",
+        "packageId": "Micharduio.adaptive.storage.Repository",
         "steamId": "3631031082",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631031082",
         "authors": "Micharduio",
@@ -28406,15 +28417,13 @@
       ],
       "translation": {
         "name": "Resize Filter Tab rus",
-        "packageId": "Kamikadza13.Nonnonstop.ResizeFilterTab",
         "steamId": "2938672643",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2938672643",
-        "authors": "Kamikadza13",
         "gameVersions": [
-          "1.3",
-          "1.4",
           "1.5",
-          "1.6"
+          "1.6",
+          "1.4",
+          "1.3"
         ]
       }
     },
@@ -29028,12 +29037,17 @@
       }
     },
     {
-      "name": "RimFlix",
-      "steamId": "2608346503",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2608346503",
+      "name": "RimFlix (Continued)",
+      "steamId": "3194639480",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3194639480",
       "gameVersions": [
+        "1.6",
+        "1.5",
         "1.4",
-        "1.3"
+        "1.3",
+        "1.2",
+        "1.1",
+        "1.0"
       ],
       "translation": {
         "name": "Rus RimFlix",
@@ -29392,6 +29406,7 @@
       ],
       "translation": {
         "name": "Rimpsyche 3 on 1 - Русификатор",
+        "packageId": "Dmitry6.Maux36.Rimpsyche",
         "steamId": "3660057152",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3660057152",
         "authors": "Dmitry6",
@@ -30224,14 +30239,14 @@
       }
     },
     {
-      "name": "RimWorld - The Dark Descent",
-      "steamId": "2151315388",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2151315388",
+      "name": "RimWorld - The Dark Descent (Continued)",
+      "packageId": "zal.darkdescent",
+      "steamId": "3312022150",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3312022150",
+      "authors": "Zaljerem",
       "gameVersions": [
-        "1.1",
-        "1.2",
-        "1.4",
-        "1.3"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "RusWorld - The Dark Descent",
@@ -30373,8 +30388,36 @@
       ],
       "translation": {
         "name": "River's Tribal RUS",
+        "packageId": "tzverg.river.tribal.trn",
         "steamId": "3452402693",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3452402693",
+        "authors": "TzverG",
+        "gameVersions": [
+          "1.3",
+          "1.4",
+          "1.5"
+        ]
+      }
+    },
+    {
+      "name": "Roads of the Rim (Continued)",
+      "packageId": "mlie.roadsoftherim",
+      "steamId": "2280318231",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2280318231",
+      "authors": "Loconeko",
+      "gameVersions": [
+        "1.0",
+        "1.1",
+        "1.2",
+        "1.3",
+        "1.4",
+        "1.5",
+        "1.6"
+      ],
+      "translation": {
+        "name": "Rails and Roads of the Rim rus",
+        "steamId": "2898234144",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2898234144",
         "gameVersions": [
           "1.5",
           "1.4",
@@ -30536,7 +30579,7 @@
       "alternatives": [
         {
           "name": "Roo's Minotaur Xenotype [RUS] [РУС]",
-          "packageId": "Micharduio.Minotaur",
+          "packageId": "micharduio.minotaur",
           "steamId": "3013348602",
           "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3013348602",
           "authors": "Micharduio",
@@ -30568,7 +30611,7 @@
       "alternatives": [
         {
           "name": "Roo's Minotaur Xenotype Expanded [RUS] [РУС]",
-          "packageId": "Micharduio.Minotaur.Expanded",
+          "packageId": "micharduio.minotaur.expanded",
           "steamId": "3013506967",
           "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3013506967",
           "authors": "Micharduio",
@@ -30604,8 +30647,10 @@
     },
     {
       "name": "Roo's Satyr and Faun Xenotypes Expanded",
+      "packageId": "tug.satyrfaun.expanded",
       "steamId": "3548973881",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3548973881",
+      "authors": "Tug",
       "gameVersions": [
         "1.6"
       ],
@@ -30620,26 +30665,14 @@
           "1.5",
           "1.6"
         ]
-      },
-      "alternatives": [
-        {
-          "name": "Roo's Satyr and Faun Xenotypes Expanded [RUS] [РУС]",
-          "packageId": "Micharduio.SatyrFaun.Expanded",
-          "steamId": "3013066326",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3013066326",
-          "authors": "Micharduio",
-          "gameVersions": [
-            "1.4"
-          ]
-        }
-      ],
-      "packageId": "tug.satyrfaun.expanded",
-      "authors": "Tug"
+      }
     },
     {
       "name": "Roo's Satyr Xenotype",
+      "packageId": "tug.satyr",
       "steamId": "3548322381",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3548322381",
+      "authors": "Tug",
       "gameVersions": [
         "1.6"
       ],
@@ -30658,17 +30691,25 @@
       "alternatives": [
         {
           "name": "Roo's Satyr Xenotype [RUS] [РУС]",
-          "packageId": "Micharduio.Satyr",
+          "packageId": "micharduio.satyr",
           "steamId": "3012807223",
           "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3012807223",
           "authors": "Micharduio",
           "gameVersions": [
             "1.4"
           ]
+        },
+        {
+          "name": "Roo's Satyr and Faun Xenotypes Expanded [RUS] [РУС]",
+          "packageId": "micharduio.satyrfaun.expanded",
+          "steamId": "3013066326",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3013066326",
+          "authors": "Micharduio",
+          "gameVersions": [
+            "1.4"
+          ]
         }
-      ],
-      "packageId": "tug.satyr",
-      "authors": "Tug"
+      ]
     },
     {
       "name": "Roots of Rimworld",
@@ -31143,18 +31184,30 @@
         "1.6"
       ],
       "translation": {
-        "name": "QOL rus",
-        "packageId": "kamikadza13QOL.All",
-        "steamId": "2791163039",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
-        "authors": "Kamikadza13",
+        "name": "Scattered Flames Russian",
+        "packageId": "shuoQi.RU.ScatteredFlames",
+        "steamId": "3096463642",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3096463642",
+        "authors": "shuoQi",
         "gameVersions": [
-          "1.3",
-          "1.4",
-          "1.5",
-          "1.6"
+          "1.4"
         ]
-      }
+      },
+      "alternatives": [
+        {
+          "name": "QOL rus",
+          "packageId": "kamikadza13QOL.All",
+          "steamId": "2791163039",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
+          "authors": "Kamikadza13",
+          "gameVersions": [
+            "1.3",
+            "1.4",
+            "1.5",
+            "1.6"
+          ]
+        }
+      ]
     },
     {
       "name": "Scattered Flames",
@@ -31165,26 +31218,16 @@
         "1.3"
       ],
       "translation": {
-        "name": "Scattered Flames Russian",
-        "steamId": "3096463642",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3096463642",
+        "name": "Rus Scattered Flames",
+        "steamId": "2887831507",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2887831507",
         "gameVersions": [
-          "1.4"
+          "1.2",
+          "1.5",
+          "1.4",
+          "1.3"
         ]
-      },
-      "alternatives": [
-        {
-          "name": "Rus Scattered Flames",
-          "steamId": "2887831507",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2887831507",
-          "gameVersions": [
-            "1.2",
-            "1.5",
-            "1.4",
-            "1.3"
-          ]
-        }
-      ]
+      }
     },
     {
       "name": "Scattered Stones 1.6",
@@ -31361,17 +31404,19 @@
       }
     },
     {
-      "name": "Search and Destroy",
-      "packageId": "roolo.searchanddestroy",
-      "steamId": "1467764609",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1467764609",
-      "authors": "Roolo",
+      "name": "Search and Destroy (Continued)",
+      "packageId": "memegoddess.searchanddestroy",
+      "steamId": "3232242247",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3232242247",
+      "authors": "MemeGoddess",
       "gameVersions": [
         "1.0",
         "1.1",
         "1.2",
         "1.3",
-        "1.4"
+        "1.4",
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "RusWorld - Search and Destroy",
@@ -31458,13 +31503,12 @@
       }
     },
     {
-      "name": "SeedsPlease: Lite",
-      "packageId": "owlchemist.seedspleaselite",
-      "steamId": "2586052937",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2586052937",
-      "authors": "Owlchemist, CitizenKanye, Charlott",
+      "name": "SeedsPlease: Lite Adjusted",
+      "steamId": "3446879170",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3446879170",
       "gameVersions": [
-        "1.3",
+        "1.6",
+        "1.5",
         "1.4"
       ],
       "translation": {
@@ -31478,30 +31522,6 @@
           "1.3",
           "1.4",
           "1.5"
-        ]
-      }
-    },
-    {
-      "name": "Selectable Sculpture Graphic",
-      "packageId": "tammybee.selectablesculpturegraphic",
-      "steamId": "1537873717",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1537873717",
-      "authors": "民火",
-      "gameVersions": [
-        "1.0",
-        "1.1",
-        "1.2",
-        "1.3",
-        "1.4"
-      ],
-      "translation": {
-        "name": "Selectable Sculpture Graphic ru zh",
-        "steamId": "2898470239",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2898470239",
-        "gameVersions": [
-          "1.5",
-          "1.4",
-          "1.6"
         ]
       }
     },
@@ -31909,13 +31929,14 @@
       }
     },
     {
-      "name": "Simple Chains: Lumber",
-      "steamId": "1708709952",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1708709952",
+      "name": "Simple Chains: Lumber (Continued)",
+      "steamId": "3424121395",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3424121395",
       "gameVersions": [
-        "1.2",
+        "1.3",
         "1.4",
-        "1.3"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Simple Chains - Lumber Russian",
@@ -31930,13 +31951,13 @@
       }
     },
     {
-      "name": "Simple Chains: Steel",
-      "steamId": "1702668415",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1702668415",
+      "name": "Simple Chains: Steel Adjusted",
+      "steamId": "3444727313",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3444727313",
       "gameVersions": [
-        "1.2",
-        "1.4",
-        "1.3"
+        "1.6",
+        "1.5",
+        "1.4"
       ],
       "translation": {
         "name": "Simple Chains - Steel Russian",
@@ -32650,13 +32671,11 @@
       ],
       "translation": {
         "name": "Slave Rebellions Improved ru zh",
-        "packageId": "SlaveRebellionsImproved.ru.zh",
         "steamId": "2888904625",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2888904625",
-        "authors": "Nevelian",
         "gameVersions": [
-          "1.3",
-          "1.4"
+          "1.4",
+          "1.3"
         ]
       }
     },
@@ -32768,15 +32787,13 @@
       ],
       "translation": {
         "name": "Smart Farming rus",
-        "packageId": "Kamikadza13.Owlchemist.SmartFarming",
         "steamId": "2942184154",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2942184154",
-        "authors": "Kamikadza13",
         "gameVersions": [
-          "1.3",
-          "1.4",
           "1.5",
-          "1.6"
+          "1.6",
+          "1.4",
+          "1.3"
         ]
       },
       "alternatives": [
@@ -32816,17 +32833,18 @@
       }
     },
     {
-      "name": "Smart Medicine",
-      "packageId": "uuugggg.smartmedicine",
-      "steamId": "1309994319",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1309994319",
+      "name": "Smart Medicine - Continued",
+      "packageId": "memegoddess.smartmedicine",
+      "steamId": "3526251680",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3526251680",
       "authors": "Uuugggg",
       "gameVersions": [
         "1.1",
         "1.2",
         "1.3",
         "1.4",
-        "1.5"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Rus Smart Medicine",
@@ -32868,7 +32886,7 @@
       "alternatives": [
         {
           "name": "Smart Meditation rus",
-          "packageId": "Kamikadza13.PureMJ.MjRimMods.SmartMeditation",
+          "packageId": "kamikadza13.puremj.mjrimmods.smartmeditation",
           "steamId": "2884211366",
           "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884211366",
           "authors": "Kamikadza13",
@@ -32945,7 +32963,7 @@
       ],
       "translation": {
         "name": "Smart Turret Covering rus",
-        "packageId": "Kamikadza13.denev.SmartTurretCovering",
+        "packageId": "kamikadza13.denev.smartturretcovering",
         "steamId": "2884175296",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884175296",
         "authors": "Kamikadza13",
@@ -33219,7 +33237,7 @@
       ],
       "translation": {
         "name": "Soul Weaver Rus",
-        "packageId": "RamboGTTH.lf.mod.SoulWeaver",
+        "packageId": "rambogtth.lf.mod.soulweaver",
         "steamId": "3584344991",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3584344991",
         "authors": "RamboGTTH",
@@ -33501,8 +33519,10 @@
     },
     {
       "name": "Statue of Animal (Continued)",
+      "packageId": "zal.statueofanimal",
       "steamId": "3407427159",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3407427159",
+      "authors": "Zaljerem",
       "gameVersions": [
         "1.5",
         "1.6"
@@ -33515,9 +33535,7 @@
           "1.4",
           "1.3"
         ]
-      },
-      "packageId": "zal.statueofanimal",
-      "authors": "Zaljerem"
+      }
     },
     {
       "name": "Steampunk: Trader Airships",
@@ -33660,7 +33678,7 @@
       ],
       "translation": {
         "name": "Stonecutting Extended rus",
-        "packageId": "Kamikadza13.Scherub.StonecuttingExtended",
+        "packageId": "kamikadza13.scherub.stonecuttingextended",
         "steamId": "2884181204",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884181204",
         "authors": "Kamikadza13",
@@ -33849,14 +33867,12 @@
       }
     },
     {
-      "name": "Survival Tools",
-      "packageId": "taranchuk.survivaltools",
-      "steamId": "2874729883",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2874729883",
-      "authors": "Taranchuk, SoL",
+      "name": "Survival Tools (Continued)",
+      "steamId": "3278071677",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3278071677",
       "gameVersions": [
-        "1.3",
-        "1.4"
+        "1.6",
+        "1.5"
       ],
       "translation": {
         "name": "Survival Tools ru",
@@ -34044,7 +34060,7 @@
       ],
       "translation": {
         "name": "Tabula Rasa Russian Language",
-        "packageId": "RU.pashka.neronix17.toolbox",
+        "packageId": "ru.pashka.neronix17.toolbox",
         "steamId": "2841686339",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2841686339",
         "authors": "pashka",
@@ -34171,7 +34187,8 @@
       "steamId": "3469863838",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3469863838",
       "gameVersions": [
-        "1.6"
+        "1.6",
+        "1.5"
       ],
       "translation": {
         "name": "Tasty Armory Russian Language",
@@ -34208,7 +34225,8 @@
       "steamId": "3482266407",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3482266407",
       "gameVersions": [
-        "1.6"
+        "1.6",
+        "1.5"
       ],
       "translation": {
         "name": "Tasty Armory Russian Language",
@@ -34226,7 +34244,8 @@
       "steamId": "3494429497",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3494429497",
       "gameVersions": [
-        "1.6"
+        "1.6",
+        "1.5"
       ],
       "translation": {
         "name": "Tasty Armory Russian Language",
@@ -34244,7 +34263,8 @@
       "steamId": "3472989392",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3472989392",
       "gameVersions": [
-        "1.6"
+        "1.6",
+        "1.5"
       ],
       "translation": {
         "name": "Tasty Armory Russian Language",
@@ -35020,11 +35040,12 @@
       }
     },
     {
-      "name": "Thog's Armor",
-      "steamId": "2779178713",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2779178713",
+      "name": "Thog's Armor (Unofficial Temporary 1.5/1.6)",
+      "steamId": "3255600098",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3255600098",
       "gameVersions": [
-        "1.4"
+        "1.6",
+        "1.5"
       ],
       "translation": {
         "name": "Thog's Armor rus",
@@ -35485,15 +35506,13 @@
       ],
       "translation": {
         "name": "Toggleable Overlays rus",
-        "packageId": "Kamikadza13.Owlchemist.ToggleableOverlays",
         "steamId": "2939864534",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2939864534",
-        "authors": "Kamikadza13",
         "gameVersions": [
-          "1.3",
-          "1.4",
           "1.5",
-          "1.6"
+          "1.6",
+          "1.4",
+          "1.3"
         ]
       },
       "alternatives": [
@@ -35522,13 +35541,15 @@
       ],
       "translation": {
         "name": "Rus Toggleable Overlays",
+        "packageId": "Am.Rus.ToggleableOverlays",
         "steamId": "2961668142",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2961668142",
+        "authors": "Animal Mind",
         "gameVersions": [
           "1.2",
-          "1.5",
+          "1.3",
           "1.4",
-          "1.3"
+          "1.5"
         ]
       }
     },
@@ -35588,13 +35609,15 @@
       ],
       "translation": {
         "name": "Rus Toggleable Shields",
+        "packageId": "Am.Rus.ToggleableShields",
         "steamId": "2932044104",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2932044104",
+        "authors": "Animal Mind",
         "gameVersions": [
           "1.2",
-          "1.5",
+          "1.3",
           "1.4",
-          "1.3"
+          "1.5"
         ]
       }
     },
@@ -36136,6 +36159,30 @@
       ]
     },
     {
+      "name": "UN-Colony (Continued)",
+      "steamId": "3501284735",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3501284735",
+      "gameVersions": [
+        "1.6"
+      ],
+      "translation": {
+        "name": "Коллекция русских переводов RusPack",
+        "packageId": "dmitry6.RusPack",
+        "steamId": "2802167053",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802167053",
+        "authors": "Dmitry6",
+        "gameVersions": [
+          "1.3",
+          "1.4",
+          "1.5",
+          "1.6",
+          "1.7",
+          "1.8",
+          "1.9"
+        ]
+      }
+    },
+    {
       "name": "UN-Furniture (Continued)",
       "packageId": "mlie.unfurniture",
       "steamId": "2019774854",
@@ -36613,7 +36660,7 @@
       ],
       "translation": {
         "name": "Ushankas Biological Warfare: Перевод Мода На Русский",
-        "packageId": "mindew.biologicalwarfare.ru",
+        "packageId": "Mindew.BiologicalWarfare.RU",
         "steamId": "3622614932",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3622614932",
         "authors": "Mindew",
@@ -36671,6 +36718,32 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Ushankas Luciferium Expansion",
+      "packageId": "ushanka.luciferiumexpansion",
+      "steamId": "3227008885",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3227008885",
+      "authors": "Ushanka",
+      "gameVersions": [
+        "1.3",
+        "1.4",
+        "1.5",
+        "1.6"
+      ],
+      "translation": {
+        "name": "Luciferium Expansion - Русификатор",
+        "packageId": "Dasreich666.RusLuciferiumExpansion",
+        "steamId": "2810495261",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2810495261",
+        "authors": "Dasreich666",
+        "gameVersions": [
+          "1.3",
+          "1.4",
+          "1.5",
+          "1.6"
+        ]
+      }
     },
     {
       "name": "UY's Armor",
@@ -37219,10 +37292,8 @@
       ],
       "translation": {
         "name": "Vanilla Christmas Expanded Russian Language Pack",
-        "packageId": "OW.RU.Christmas",
         "steamId": "3380768447",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3380768447",
-        "authors": "OliveWizard",
         "gameVersions": [
           "1.5",
           "1.6"
@@ -37403,14 +37474,12 @@
       ],
       "translation": {
         "name": "Vanilla Factions Expanded - Ancients Russian Language Pack",
-        "packageId": "OW.RU.Ancients",
         "steamId": "2686847475",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2686847475",
-        "authors": "OliveWizard",
         "gameVersions": [
-          "1.3",
+          "1.5",
           "1.4",
-          "1.5"
+          "1.3"
         ]
       },
       "alternatives": [
@@ -37579,14 +37648,12 @@
       ],
       "translation": {
         "name": "Vanilla Factions Expanded - Mechanoids Russian Language Pack",
-        "packageId": "OW.RU.Mechanoid",
         "steamId": "2374533597",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2374533597",
-        "authors": "OliveWizard",
         "gameVersions": [
-          "1.3",
+          "1.5",
           "1.4",
-          "1.5"
+          "1.3"
         ]
       },
       "alternatives": [
@@ -39479,6 +39546,146 @@
       }
     },
     {
+      "name": "Vanilla Storytellers Expanded - Diego Industrial",
+      "steamId": "2455898522",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2455898522",
+      "gameVersions": [
+        "1.2",
+        "1.4",
+        "1.3"
+      ],
+      "translation": {
+        "name": "Vanilla Storytellers Expanded Russian Language Pack",
+        "steamId": "2150723779",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2150723779",
+        "gameVersions": [
+          "1.6",
+          "1.5",
+          "1.4",
+          "1.3",
+          "1.2",
+          "1.1"
+        ]
+      }
+    },
+    {
+      "name": "Vanilla Storytellers Expanded - Empress Evil",
+      "steamId": "2149702528",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2149702528",
+      "gameVersions": [
+        "1.1",
+        "1.2",
+        "1.4",
+        "1.3"
+      ],
+      "translation": {
+        "name": "Vanilla Storytellers Expanded Russian Language Pack",
+        "steamId": "2150723779",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2150723779",
+        "gameVersions": [
+          "1.6",
+          "1.5",
+          "1.4",
+          "1.3",
+          "1.2",
+          "1.1"
+        ]
+      }
+    },
+    {
+      "name": "Vanilla Storytellers Expanded - Freya Fierce",
+      "steamId": "2231483525",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2231483525",
+      "gameVersions": [
+        "1.2",
+        "1.4",
+        "1.3"
+      ],
+      "translation": {
+        "name": "Vanilla Storytellers Expanded Russian Language Pack",
+        "steamId": "2150723779",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2150723779",
+        "gameVersions": [
+          "1.6",
+          "1.5",
+          "1.4",
+          "1.3",
+          "1.2",
+          "1.1"
+        ]
+      }
+    },
+    {
+      "name": "Vanilla Storytellers Expanded - Igor Invader (Continued)",
+      "packageId": "zal.vseigorinvader",
+      "steamId": "3582195822",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3582195822",
+      "authors": "Zaljerem",
+      "gameVersions": [
+        "1.5",
+        "1.6"
+      ],
+      "translation": {
+        "name": "Vanilla Storytellers Expanded Russian Language Pack",
+        "steamId": "2150723779",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2150723779",
+        "gameVersions": [
+          "1.6",
+          "1.5",
+          "1.4",
+          "1.3",
+          "1.2",
+          "1.1"
+        ]
+      }
+    },
+    {
+      "name": "Vanilla Storytellers Expanded - Maynard Medieval",
+      "steamId": "2455898730",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2455898730",
+      "gameVersions": [
+        "1.2",
+        "1.4",
+        "1.3"
+      ],
+      "translation": {
+        "name": "Vanilla Storytellers Expanded Russian Language Pack",
+        "steamId": "2150723779",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2150723779",
+        "gameVersions": [
+          "1.6",
+          "1.5",
+          "1.4",
+          "1.3",
+          "1.2",
+          "1.1"
+        ]
+      }
+    },
+    {
+      "name": "Vanilla Storytellers Expanded - Neron Neolithic",
+      "steamId": "2455898908",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2455898908",
+      "gameVersions": [
+        "1.2",
+        "1.4",
+        "1.3"
+      ],
+      "translation": {
+        "name": "Vanilla Storytellers Expanded Russian Language Pack",
+        "steamId": "2150723779",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2150723779",
+        "gameVersions": [
+          "1.6",
+          "1.5",
+          "1.4",
+          "1.3",
+          "1.2",
+          "1.1"
+        ]
+      }
+    },
+    {
       "name": "Vanilla Storytellers Expanded - Oskar Obnoxious (Continued)",
       "packageId": "zal.vseoskarobnoxious",
       "steamId": "3360164489",
@@ -39490,17 +39697,15 @@
       ],
       "translation": {
         "name": "Vanilla Storytellers Expanded Russian Language Pack",
-        "packageId": "OW.RU.VSE",
         "steamId": "2150723779",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2150723779",
-        "authors": "OliveWizard",
         "gameVersions": [
-          "1.1",
-          "1.2",
-          "1.3",
-          "1.4",
+          "1.6",
           "1.5",
-          "1.6"
+          "1.4",
+          "1.3",
+          "1.2",
+          "1.1"
         ]
       }
     },
@@ -39517,17 +39722,37 @@
       ],
       "translation": {
         "name": "Vanilla Storytellers Expanded Russian Language Pack",
-        "packageId": "OW.RU.VSE",
         "steamId": "2150723779",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2150723779",
-        "authors": "OliveWizard",
         "gameVersions": [
-          "1.1",
-          "1.2",
-          "1.3",
-          "1.4",
+          "1.6",
           "1.5",
-          "1.6"
+          "1.4",
+          "1.3",
+          "1.2",
+          "1.1"
+        ]
+      }
+    },
+    {
+      "name": "Vanilla Storytellers Expanded - RimWorld Rick",
+      "steamId": "2787762549",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2787762549",
+      "gameVersions": [
+        "1.4",
+        "1.3"
+      ],
+      "translation": {
+        "name": "Vanilla Storytellers Expanded Russian Language Pack",
+        "steamId": "2150723779",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2150723779",
+        "gameVersions": [
+          "1.6",
+          "1.5",
+          "1.4",
+          "1.3",
+          "1.2",
+          "1.1"
         ]
       }
     },
@@ -39544,17 +39769,15 @@
       ],
       "translation": {
         "name": "Vanilla Storytellers Expanded Russian Language Pack",
-        "packageId": "OW.RU.VSE",
         "steamId": "2150723779",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2150723779",
-        "authors": "OliveWizard",
         "gameVersions": [
-          "1.1",
-          "1.2",
-          "1.3",
-          "1.4",
+          "1.6",
           "1.5",
-          "1.6"
+          "1.4",
+          "1.3",
+          "1.2",
+          "1.1"
         ]
       }
     },
@@ -40666,7 +40889,7 @@
       ],
       "translation": {
         "name": "VPE - Ragnarok Online Rus",
-        "packageId": "RamboGTTH.VPE.Ragnarok.Sentinel",
+        "packageId": "rambogtth.vpe.ragnarok.sentinel",
         "steamId": "3587092643",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3587092643",
         "authors": "RamboGTTH",
@@ -40958,7 +41181,7 @@
       ],
       "translation": {
         "name": "Adaptive Storage Mod Repository [RUS] [РУС]",
-        "packageId": "micharduio.adaptive.storage.repository",
+        "packageId": "Micharduio.adaptive.storage.Repository",
         "steamId": "3631031082",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631031082",
         "authors": "Micharduio",
@@ -40982,7 +41205,7 @@
       ],
       "translation": {
         "name": "Adaptive Storage Mod Repository [RUS] [РУС]",
-        "packageId": "micharduio.adaptive.storage.repository",
+        "packageId": "Micharduio.adaptive.storage.Repository",
         "steamId": "3631031082",
         "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631031082",
         "authors": "Micharduio",
@@ -41077,38 +41300,19 @@
       }
     },
     {
-      "name": "Warhammer\"ish\":Dryad",
-      "steamId": "1694750191",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1694750191",
+      "name": "Warhammer-ish:Dryad (Continued++)",
+      "packageId": "mortimer.warhammerishdryad",
+      "steamId": "3563451515",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3563451515",
+      "authors": "Kompadt",
       "gameVersions": [
         "1.0",
         "1.1",
         "1.2",
-        "1.3"
-      ],
-      "translation": {
-        "name": "Ru Warhammer\"ish\":Dryad",
-        "steamId": "2679474876",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2679474876",
-        "gameVersions": [
-          "1.0",
-          "1.1",
-          "1.2",
-          "1.4",
-          "1.3"
-        ]
-      }
-    },
-    {
-      "name": "Warhammer\"ish\":Dryad (Continued)",
-      "steamId": "2958123708",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2958123708",
-      "gameVersions": [
-        "1.0",
-        "1.1",
-        "1.2",
+        "1.3",
         "1.4",
-        "1.3"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Warhammer\"ish\":Dryad (Continued) ru",
@@ -41119,7 +41323,21 @@
           "1.4",
           "1.3"
         ]
-      }
+      },
+      "alternatives": [
+        {
+          "name": "Ru Warhammer\"ish\":Dryad",
+          "steamId": "2679474876",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2679474876",
+          "gameVersions": [
+            "1.0",
+            "1.1",
+            "1.2",
+            "1.4",
+            "1.3"
+          ]
+        }
+      ]
     },
     {
       "name": "Warhammer: Zhthy'hl",
@@ -41605,28 +41823,6 @@
       }
     },
     {
-      "name": "Windows",
-      "packageId": "owlchemist.windows",
-      "steamId": "2571189146",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2571189146",
-      "authors": "Owlchemist, jptrrs",
-      "gameVersions": [
-        "1.3",
-        "1.4"
-      ],
-      "translation": {
-        "name": "Rus Windows",
-        "steamId": "2613922401",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2613922401",
-        "gameVersions": [
-          "1.2",
-          "1.5",
-          "1.4",
-          "1.3"
-        ]
-      }
-    },
-    {
       "name": "Wisteria Corporation (Continued)",
       "steamId": "3205368071",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3205368071",
@@ -41988,14 +42184,12 @@
       }
     },
     {
-      "name": "XCOM:Terror From the Deep weapons",
-      "steamId": "2174298905",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2174298905",
+      "name": "XCOM:Terror From the Deep Weapons (Continued)",
+      "steamId": "3569040277",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3569040277",
       "gameVersions": [
-        "1.1",
-        "1.2",
-        "1.4",
-        "1.3"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "X-Com: UFO Defense and Terror From The Deep weapons Russian Language",
@@ -42010,16 +42204,13 @@
       }
     },
     {
-      "name": "Xenobionic Patcher",
-      "steamId": "1911273785",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1911273785",
+      "name": "Xenobionic Patcher (Continued)",
+      "packageId": "zal.xenobionicpatcher",
+      "steamId": "3602394289",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3602394289",
+      "authors": "Zaljerem",
       "gameVersions": [
-        "1.0",
-        "1.1",
-        "1.2",
-        "1.5",
-        "1.4",
-        "1.3"
+        "1.6"
       ],
       "translation": {
         "name": "Xenobionic Patcher rus",
