@@ -1,5 +1,5 @@
 {
-  "version": 1778515823,
+  "version": 1778517483,
   "updatedAt": "2026-05-11",
   "language": "Russian",
   "aliases": [
@@ -11279,6 +11279,33 @@
           "1.7",
           "1.8",
           "1.9"
+        ]
+      }
+    },
+    {
+      "name": "Compressed Raid Continued",
+      "packageId": "vk.compressedraid.latestcontinued",
+      "steamId": "3475786927",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3475786927",
+      "authors": "miyamiya, twsta, vokaerian",
+      "gameVersions": [
+        "1.2",
+        "1.3",
+        "1.4",
+        "1.5",
+        "1.6"
+      ],
+      "translation": {
+        "name": "Compressed Raid ru",
+        "packageId": "compressedraid.Raid.ru",
+        "steamId": "2919445363",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2919445363",
+        "authors": "Nevelian",
+        "gameVersions": [
+          "1.3",
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       }
     },
@@ -24590,6 +24617,29 @@
           ]
         }
       ]
+    },
+    {
+      "name": "MorrowRim - Adamantium",
+      "packageId": "ESCP.MorrowRim.Adamantium",
+      "steamId": "3244645830",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3244645830",
+      "authors": "ESCP",
+      "gameVersions": [
+        "1.5",
+        "1.6"
+      ],
+      "translation": {
+        "name": "Перевод модификаций MorrowRim и ESCP",
+        "packageId": "Ru.Hellest.MorrowRim.ESCP",
+        "steamId": "2682293976",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2682293976",
+        "authors": "Hellest",
+        "gameVersions": [
+          "1.1",
+          "1.2",
+          "1.3"
+        ]
+      }
     },
     {
       "name": "MorrowRim - Bonewalkers",
