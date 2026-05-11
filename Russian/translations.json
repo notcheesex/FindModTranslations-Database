@@ -1,5 +1,5 @@
 {
-  "version": 1778511574,
+  "version": 1778514579,
   "updatedAt": "2026-05-11",
   "language": "Russian",
   "aliases": [
@@ -1733,6 +1733,24 @@
       }
     },
     {
+      "name": "[JDS] Destiny - Cabal Armor",
+      "steamId": "3541933297",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3541933297",
+      "gameVersions": [
+        "1.6"
+      ],
+      "translation": {
+        "name": "Destiny - Cabal Armor ru",
+        "steamId": "2891084032",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2891084032",
+        "gameVersions": [
+          "1.2",
+          "1.4",
+          "1.3"
+        ]
+      }
+    },
+    {
       "name": "[JDS] Simple Storage",
       "steamId": "1961098970",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1961098970",
@@ -3190,13 +3208,14 @@
       }
     },
     {
-      "name": "[Ry]Rimcraft",
-      "steamId": "1686288212",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1686288212",
+      "name": "[Ry]Rimcraft Metals (Continued)",
+      "packageId": "zal.rimcraftmetals",
+      "steamId": "3599364171",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3599364171",
+      "authors": "Zaljerem",
       "gameVersions": [
-        "1.2",
-        "1.4",
-        "1.3"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "[Ry]Rimcraft Russian Language",
@@ -11860,27 +11879,6 @@
       ]
     },
     {
-      "name": "Destiny - Cabal Armor",
-      "steamId": "2787100118",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2787100118",
-      "gameVersions": [
-        "1.2",
-        "1.5",
-        "1.4",
-        "1.3"
-      ],
-      "translation": {
-        "name": "Destiny - Cabal Armor ru",
-        "steamId": "2891084032",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2891084032",
-        "gameVersions": [
-          "1.2",
-          "1.4",
-          "1.3"
-        ]
-      }
-    },
-    {
       "name": "Destroy Item",
       "packageId": "garwel.destroyitem",
       "steamId": "2423311270",
@@ -17143,12 +17141,11 @@
       }
     },
     {
-      "name": "Get Rimped - Gym Equipment",
-      "packageId": "kones.getrimped",
-      "steamId": "3285590254",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3285590254",
-      "authors": "kones",
+      "name": "Get Rimped - Gym Equipment - Pumped Up",
+      "steamId": "3534002285",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3534002285",
       "gameVersions": [
+        "1.6",
         "1.5"
       ],
       "translation": {
@@ -19242,16 +19239,19 @@
       }
     },
     {
-      "name": "JecsTools [Deprecated]",
-      "steamId": "932008009",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=932008009",
+      "name": "JecsTools Unofficial 1.6 BETA",
+      "packageId": "jecrell.jecstools",
+      "steamId": "3524247750",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3524247750",
+      "authors": "anobs, jecrell and contributors",
       "gameVersions": [
         "1.0",
         "1.1",
         "1.2",
-        "1.5",
+        "1.3",
         "1.4",
-        "1.3"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Rus JecsTools",
@@ -19685,13 +19685,17 @@
       }
     },
     {
-      "name": "Kraltech Industries",
-      "steamId": "2968750452",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2968750452",
+      "name": "Kraltech Industries (1.6) (Continued)",
+      "packageId": "kraltechindustries.nexus",
+      "steamId": "3625664332",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3625664332",
+      "authors": "BlackMarket420",
       "gameVersions": [
         "1.2",
+        "1.3",
         "1.4",
-        "1.3"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Kraltech Industries - Русский Язык",
@@ -20597,15 +20601,14 @@
       }
     },
     {
-      "name": "Mass Graves",
-      "steamId": "1542386771",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1542386771",
+      "name": "Mass Graves 1.6",
+      "packageId": "pyrce.mass.graves.continued",
+      "steamId": "3545739596",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3545739596",
+      "authors": "Talesoftherim",
       "gameVersions": [
-        "1.0",
-        "1.1",
-        "1.2",
-        "1.4",
-        "1.3"
+        "1.5",
+        "1.6"
       ],
       "translation": {
         "name": "Rus Mass Graves",
