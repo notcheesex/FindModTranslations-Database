@@ -1,5 +1,5 @@
 {
-  "version": 1782556650,
+  "version": 1782565449,
   "updatedAt": "2026-06-27",
   "language": "Russian",
   "aliases": [
@@ -31781,27 +31781,27 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus Vanilla Furniture Expanded",
-        "steamId": "2425549899",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425549899",
+        "name": "Vanilla Furniture Expanded Russian Language Pack",
+        "packageId": "OW.RU.Furniture",
+        "steamId": "2927850179",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2927850179",
+        "authors": "Mewn Goddess, OliveWizard",
         "gameVersions": [
-          "1.2",
-          "1.3",
           "1.4",
-          "1.5"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Vanilla Furniture Expanded Russian Language Pack",
-          "packageId": "OW.RU.Furniture",
-          "steamId": "2927850179",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2927850179",
-          "authors": "Mewn Goddess, OliveWizard",
+          "name": "Rus Vanilla Furniture Expanded",
+          "steamId": "2425549899",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425549899",
           "gameVersions": [
+            "1.2",
+            "1.3",
             "1.4",
-            "1.5",
-            "1.6"
+            "1.5"
           ]
         }
       ]
@@ -31818,26 +31818,26 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus Vanilla Furniture Expanded - Architect",
-        "steamId": "2610164072",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2610164072",
+        "name": "Vanilla Furniture Expanded Russian Language Pack",
+        "packageId": "OW.RU.Furniture",
+        "steamId": "2927850179",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2927850179",
+        "authors": "Mewn Goddess, OliveWizard",
         "gameVersions": [
-          "1.2",
-          "1.3",
-          "1.4"
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Vanilla Furniture Expanded Russian Language Pack",
-          "packageId": "OW.RU.Furniture",
-          "steamId": "2927850179",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2927850179",
-          "authors": "Mewn Goddess, OliveWizard",
+          "name": "Rus Vanilla Furniture Expanded - Architect",
+          "steamId": "2610164072",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2610164072",
           "gameVersions": [
-            "1.4",
-            "1.5",
-            "1.6"
+            "1.2",
+            "1.3",
+            "1.4"
           ]
         }
       ]
@@ -31854,28 +31854,28 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus Vanilla Furniture Expanded - Art",
-        "packageId": "am.rus.vfeart",
-        "steamId": "2878663983",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2878663983",
-        "authors": "Animal Mind",
+        "name": "Vanilla Furniture Expanded Russian Language Pack",
+        "packageId": "OW.RU.Furniture",
+        "steamId": "2927850179",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2927850179",
+        "authors": "Mewn Goddess, OliveWizard",
         "gameVersions": [
-          "1.2",
-          "1.3",
-          "1.4"
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Vanilla Furniture Expanded Russian Language Pack",
-          "packageId": "OW.RU.Furniture",
-          "steamId": "2927850179",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2927850179",
-          "authors": "Mewn Goddess, OliveWizard",
+          "name": "Rus Vanilla Furniture Expanded - Art",
+          "packageId": "am.rus.vfeart",
+          "steamId": "2878663983",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2878663983",
+          "authors": "Animal Mind",
           "gameVersions": [
-            "1.4",
-            "1.5",
-            "1.6"
+            "1.2",
+            "1.3",
+            "1.4"
           ]
         }
       ]
@@ -32020,11 +32020,11 @@
         "1.6"
       ],
       "translation": {
-        "name": "Vanilla Furniture Expanded - Props and Decor Russian Language Pack",
-        "packageId": "Mewn.Rus.VFEPropsandDecor",
-        "steamId": "3200949846",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3200949846",
-        "authors": "Mewn Goddess, OliveWizard и Grim Cheese",
+        "name": "Vanilla Furniture Expanded Russian Language Pack",
+        "packageId": "OW.RU.Furniture",
+        "steamId": "2927850179",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2927850179",
+        "authors": "Mewn Goddess, OliveWizard",
         "gameVersions": [
           "1.4",
           "1.5",
@@ -32032,6 +32032,18 @@
         ]
       },
       "alternatives": [
+        {
+          "name": "Vanilla Furniture Expanded - Props and Decor Russian Language Pack",
+          "packageId": "Mewn.Rus.VFEPropsandDecor",
+          "steamId": "3200949846",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3200949846",
+          "authors": "Mewn Goddess, OliveWizard и Grim Cheese",
+          "gameVersions": [
+            "1.4",
+            "1.5",
+            "1.6"
+          ]
+        },
         {
           "name": "Rus Vanilla Furniture Expanded - Props and Decor",
           "packageId": "am.rus.vfepropsanddecor",
@@ -32042,18 +32054,6 @@
             "1.2",
             "1.3",
             "1.4"
-          ]
-        },
-        {
-          "name": "Vanilla Furniture Expanded Russian Language Pack",
-          "packageId": "OW.RU.Furniture",
-          "steamId": "2927850179",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2927850179",
-          "authors": "Mewn Goddess, OliveWizard",
-          "gameVersions": [
-            "1.4",
-            "1.5",
-            "1.6"
           ]
         }
       ]
@@ -32071,26 +32071,26 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus Vanilla Furniture Expanded - Security",
-        "steamId": "2425550137",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425550137",
+        "name": "Vanilla Furniture Expanded Russian Language Pack",
+        "packageId": "OW.RU.Furniture",
+        "steamId": "2927850179",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2927850179",
+        "authors": "Mewn Goddess, OliveWizard",
         "gameVersions": [
-          "1.2",
-          "1.3",
-          "1.4"
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Vanilla Furniture Expanded Russian Language Pack",
-          "packageId": "OW.RU.Furniture",
-          "steamId": "2927850179",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2927850179",
-          "authors": "Mewn Goddess, OliveWizard",
+          "name": "Rus Vanilla Furniture Expanded - Security",
+          "steamId": "2425550137",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425550137",
           "gameVersions": [
-            "1.4",
-            "1.5",
-            "1.6"
+            "1.2",
+            "1.3",
+            "1.4"
           ]
         }
       ]
@@ -33409,31 +33409,31 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus Vanilla Social Interactions Expanded",
-        "packageId": "am.rus.vanillasocialinteractionsexpanded",
-        "steamId": "2595059862",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2595059862",
-        "authors": "Animal Mind",
+        "name": "Vanilla Social Interactions Expanded Russian Language Pack",
+        "packageId": "OW.RU.Social",
+        "steamId": "2442101893",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2442101893",
+        "authors": "OliveWizard",
         "gameVersions": [
           "1.2",
           "1.3",
           "1.4",
-          "1.5"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Vanilla Social Interactions Expanded Russian Language Pack",
-          "packageId": "OW.RU.Social",
-          "steamId": "2442101893",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2442101893",
-          "authors": "OliveWizard",
+          "name": "Rus Vanilla Social Interactions Expanded",
+          "packageId": "am.rus.vanillasocialinteractionsexpanded",
+          "steamId": "2595059862",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2595059862",
+          "authors": "Animal Mind",
           "gameVersions": [
             "1.2",
             "1.3",
             "1.4",
-            "1.5",
-            "1.6"
+            "1.5"
           ]
         }
       ]
@@ -33604,30 +33604,30 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus Vanilla Textures Expanded",
-        "steamId": "2425548324",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425548324",
+        "name": "Vanilla Expanded Framework Russian Language Pack",
+        "packageId": "OW.RU.CORE",
+        "steamId": "2507140407",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2507140407",
+        "authors": "OliveWizard",
         "gameVersions": [
+          "1.1",
           "1.2",
           "1.3",
           "1.4",
-          "1.5"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Vanilla Expanded Framework Russian Language Pack",
-          "packageId": "OW.RU.CORE",
-          "steamId": "2507140407",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2507140407",
-          "authors": "OliveWizard",
+          "name": "Rus Vanilla Textures Expanded",
+          "steamId": "2425548324",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425548324",
           "gameVersions": [
-            "1.1",
             "1.2",
             "1.3",
             "1.4",
-            "1.5",
-            "1.6"
+            "1.5"
           ]
         }
       ]
