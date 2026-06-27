@@ -1,5 +1,5 @@
 {
-  "version": 1782565449,
+  "version": 1782567877,
   "updatedAt": "2026-06-27",
   "language": "Russian",
   "aliases": [
@@ -641,25 +641,25 @@
         "1.6"
       ],
       "translation": {
-        "name": "Ru [1.3]Requeen Boss",
-        "steamId": "2665907223",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2665907223",
+        "name": "[Aya]Requeen+Enforcer - Русский Язык",
+        "steamId": "3136701803",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3136701803",
         "gameVersions": [
-          "1.1",
-          "1.2",
-          "1.3",
-          "1.4"
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "[Aya]Requeen+Enforcer - Русский Язык",
-          "steamId": "3136701803",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3136701803",
+          "name": "Ru [1.3]Requeen Boss",
+          "steamId": "2665907223",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2665907223",
           "gameVersions": [
-            "1.4",
-            "1.5",
-            "1.6"
+            "1.1",
+            "1.2",
+            "1.3",
+            "1.4"
           ]
         }
       ]
@@ -1716,12 +1716,13 @@
         "1.2"
       ],
       "translation": {
-        "name": "[MUS]哥特式吸血鬼家具 Gothicstyle Vampire Furniture rus",
-        "packageId": "Kindest.mingtuwuxiang.GothicDecorative",
-        "steamId": "3225297611",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3225297611",
-        "authors": "Kindest",
+        "name": "[MUS]哥特式吸血鬼家具 Gothicstyle Vampire Furniture  [RUS] [РУС]",
+        "packageId": "Mic.GothicDecorative",
+        "steamId": "3524089093",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3524089093",
+        "authors": "Micharduio",
         "gameVersions": [
+          "1.6",
           "1.5",
           "1.4",
           "1.3",
@@ -1730,13 +1731,12 @@
       },
       "alternatives": [
         {
-          "name": "[MUS]哥特式吸血鬼家具 Gothicstyle Vampire Furniture  [RUS] [РУС]",
-          "packageId": "Mic.GothicDecorative",
-          "steamId": "3524089093",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3524089093",
-          "authors": "Micharduio",
+          "name": "[MUS]哥特式吸血鬼家具 Gothicstyle Vampire Furniture rus",
+          "packageId": "Kindest.mingtuwuxiang.GothicDecorative",
+          "steamId": "3225297611",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3225297611",
+          "authors": "Kindest",
           "gameVersions": [
-            "1.6",
             "1.5",
             "1.4",
             "1.3",
@@ -1786,30 +1786,30 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus [NL] Facial Animation",
-        "steamId": "2961668476",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2961668476",
+        "name": "Vanilla Expanded Framework Russian Language Pack",
+        "packageId": "OW.RU.CORE",
+        "steamId": "2507140407",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2507140407",
+        "authors": "OliveWizard",
         "gameVersions": [
+          "1.1",
           "1.2",
           "1.3",
           "1.4",
-          "1.5"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Vanilla Expanded Framework Russian Language Pack",
-          "packageId": "OW.RU.CORE",
-          "steamId": "2507140407",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2507140407",
-          "authors": "OliveWizard",
+          "name": "Rus [NL] Facial Animation",
+          "steamId": "2961668476",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2961668476",
           "gameVersions": [
-            "1.1",
             "1.2",
             "1.3",
             "1.4",
-            "1.5",
-            "1.6"
+            "1.5"
           ]
         }
       ]
@@ -2676,15 +2676,6 @@
       },
       "alternatives": [
         {
-          "name": "[sbz] pack [RU]",
-          "steamId": "3655388627",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3655388627",
-          "gameVersions": [
-            "1.5",
-            "1.6"
-          ]
-        },
-        {
           "name": "Adaptive Storage Mod Repository [RUS] [РУС]",
           "packageId": "Micharduio.adaptive.storage.Repository",
           "steamId": "3631031082",
@@ -2692,6 +2683,15 @@
           "authors": "Micharduio",
           "gameVersions": [
             "1.4",
+            "1.5",
+            "1.6"
+          ]
+        },
+        {
+          "name": "[sbz] pack [RU]",
+          "steamId": "3655388627",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3655388627",
+          "gameVersions": [
             "1.5",
             "1.6"
           ]
@@ -3068,31 +3068,31 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus [XND] Nocturnal Animals",
-        "steamId": "2425552507",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425552507",
+        "name": "Коллекция русских переводов RusPack",
+        "packageId": "dmitry6.RusPack",
+        "steamId": "2802167053",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802167053",
+        "authors": "Dmitry6",
         "gameVersions": [
-          "1.2",
           "1.3",
           "1.4",
-          "1.5"
+          "1.5",
+          "1.6",
+          "1.7",
+          "1.8",
+          "1.9"
         ]
       },
       "alternatives": [
         {
-          "name": "Коллекция русских переводов RusPack",
-          "packageId": "dmitry6.RusPack",
-          "steamId": "2802167053",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802167053",
-          "authors": "Dmitry6",
+          "name": "Rus [XND] Nocturnal Animals",
+          "steamId": "2425552507",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425552507",
           "gameVersions": [
+            "1.2",
             "1.3",
             "1.4",
-            "1.5",
-            "1.6",
-            "1.7",
-            "1.8",
-            "1.9"
+            "1.5"
           ]
         }
       ]
@@ -3845,26 +3845,26 @@
         "1.5"
       ],
       "translation": {
-        "name": "Alpha Biomes RU",
-        "steamId": "3263743213",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3263743213",
+        "name": "Русский язык для Alpha Biomes",
+        "packageId": "PiaRex.AlphaBiomesTranslationRus",
+        "steamId": "2471318704",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2471318704",
+        "authors": "PiaRex",
         "gameVersions": [
-          "1.6",
-          "1.5"
+          "1.3",
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Русский язык для Alpha Biomes",
-          "packageId": "PiaRex.AlphaBiomesTranslationRus",
-          "steamId": "2471318704",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2471318704",
-          "authors": "PiaRex",
+          "name": "Alpha Biomes RU",
+          "steamId": "3263743213",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3263743213",
           "gameVersions": [
-            "1.3",
-            "1.4",
-            "1.5",
-            "1.6"
+            "1.6",
+            "1.5"
           ]
         }
       ]
@@ -4628,26 +4628,26 @@
         "1.6"
       ],
       "translation": {
-        "name": "Anima Bionics - Forked [RUS]",
-        "packageId": "tzverg.seti.victor.animabodies.ru",
-        "steamId": "3036959427",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3036959427",
-        "authors": "TzverG",
+        "name": "Anima Bionics - Forked ru",
+        "steamId": "2897342774",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2897342774",
         "gameVersions": [
+          "1.3",
           "1.4",
-          "1.5"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Anima Bionics - Forked ru",
-          "steamId": "2897342774",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2897342774",
+          "name": "Anima Bionics - Forked [RUS]",
+          "packageId": "tzverg.seti.victor.animabodies.ru",
+          "steamId": "3036959427",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3036959427",
+          "authors": "TzverG",
           "gameVersions": [
-            "1.3",
             "1.4",
-            "1.5",
-            "1.6"
+            "1.5"
           ]
         }
       ]
@@ -6434,25 +6434,25 @@
         "1.6"
       ],
       "translation": {
-        "name": "Big and Small Races ru",
-        "steamId": "2900706249",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2900706249",
+        "name": "Big and Small Races и Prerequisites Framework (Russian Language Pack)",
+        "packageId": "OW.RU.BAS.Races",
+        "steamId": "3088359347",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3088359347",
+        "authors": "OliveWizard",
         "gameVersions": [
           "1.4",
-          "1.5",
-          "1.6"
+          "1.5"
         ]
       },
       "alternatives": [
         {
-          "name": "Big and Small Races и Prerequisites Framework (Russian Language Pack)",
-          "packageId": "OW.RU.BAS.Races",
-          "steamId": "3088359347",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3088359347",
-          "authors": "OliveWizard",
+          "name": "Big and Small Races ru",
+          "steamId": "2900706249",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2900706249",
           "gameVersions": [
             "1.4",
-            "1.5"
+            "1.5",
+            "1.6"
           ]
         }
       ]
@@ -7412,13 +7412,12 @@
         "1.6"
       ],
       "translation": {
-        "name": "BuilderTweaks rus",
-        "steamId": "3128757922",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3128757922",
+        "name": "QOL rus",
+        "packageId": "kamikadza13QOL.All",
+        "steamId": "2791163039",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
+        "authors": "Kamikadza13",
         "gameVersions": [
-          "1.0",
-          "1.1",
-          "1.2",
           "1.3",
           "1.4",
           "1.5",
@@ -7427,12 +7426,13 @@
       },
       "alternatives": [
         {
-          "name": "QOL rus",
-          "packageId": "kamikadza13QOL.All",
-          "steamId": "2791163039",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
-          "authors": "Kamikadza13",
+          "name": "BuilderTweaks rus",
+          "steamId": "3128757922",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3128757922",
           "gameVersions": [
+            "1.0",
+            "1.1",
+            "1.2",
             "1.3",
             "1.4",
             "1.5",
@@ -9818,11 +9818,11 @@
       },
       "alternatives": [
         {
-          "name": "QOL rus",
-          "packageId": "kamikadza13QOL.All",
-          "steamId": "2791163039",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
-          "authors": "Kamikadza13",
+          "name": "Translation of some mods into Russian",
+          "packageId": "RU.pashka.TranslateForSomeMods",
+          "steamId": "2885257046",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2885257046",
+          "authors": "pashka",
           "gameVersions": [
             "1.3",
             "1.4",
@@ -9831,11 +9831,11 @@
           ]
         },
         {
-          "name": "Translation of some mods into Russian",
-          "packageId": "RU.pashka.TranslateForSomeMods",
-          "steamId": "2885257046",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2885257046",
-          "authors": "pashka",
+          "name": "QOL rus",
+          "packageId": "kamikadza13QOL.All",
+          "steamId": "2791163039",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
+          "authors": "Kamikadza13",
           "gameVersions": [
             "1.3",
             "1.4",
@@ -15085,17 +15085,6 @@
       },
       "alternatives": [
         {
-          "name": "Rus HugsLib",
-          "steamId": "2425543063",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425543063",
-          "gameVersions": [
-            "1.2",
-            "1.3",
-            "1.4",
-            "1.5"
-          ]
-        },
-        {
           "name": "Коллекция русских переводов RusPack",
           "packageId": "dmitry6.RusPack",
           "steamId": "2802167053",
@@ -15109,6 +15098,17 @@
             "1.7",
             "1.8",
             "1.9"
+          ]
+        },
+        {
+          "name": "Rus HugsLib",
+          "steamId": "2425543063",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425543063",
+          "gameVersions": [
+            "1.2",
+            "1.3",
+            "1.4",
+            "1.5"
           ]
         }
       ]
@@ -15471,29 +15471,29 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus Injured Carry",
-        "packageId": "Am.Haecriver.InjuredCarry",
-        "steamId": "2591138841",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2591138841",
-        "authors": "Animal Mind",
+        "name": "Injured Carry rus",
+        "steamId": "2908842172",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2908842172",
         "gameVersions": [
           "1.2",
           "1.3",
           "1.4",
-          "1.5"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Injured Carry rus",
-          "steamId": "2908842172",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2908842172",
+          "name": "Rus Injured Carry",
+          "packageId": "Am.Haecriver.InjuredCarry",
+          "steamId": "2591138841",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2591138841",
+          "authors": "Animal Mind",
           "gameVersions": [
             "1.2",
             "1.3",
             "1.4",
-            "1.5",
-            "1.6"
+            "1.5"
           ]
         },
         {
@@ -17881,14 +17881,6 @@
       },
       "alternatives": [
         {
-          "name": "Medieval Overhaul - RU СРЕДНЕВЕКОВЬЕ",
-          "steamId": "3438553877",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3438553877",
-          "gameVersions": [
-            "1.5"
-          ]
-        },
-        {
           "name": "Medieval Overhaul - Русификатор",
           "steamId": "2812992901",
           "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2812992901",
@@ -17897,6 +17889,14 @@
             "1.4",
             "1.5",
             "1.6"
+          ]
+        },
+        {
+          "name": "Medieval Overhaul - RU СРЕДНЕВЕКОВЬЕ",
+          "steamId": "3438553877",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3438553877",
+          "gameVersions": [
+            "1.5"
           ]
         }
       ]
@@ -18705,11 +18705,11 @@
       },
       "alternatives": [
         {
-          "name": "QOL rus",
-          "packageId": "kamikadza13QOL.All",
-          "steamId": "2791163039",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
-          "authors": "Kamikadza13",
+          "name": "Translation of some mods into Russian",
+          "packageId": "RU.pashka.TranslateForSomeMods",
+          "steamId": "2885257046",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2885257046",
+          "authors": "pashka",
           "gameVersions": [
             "1.3",
             "1.4",
@@ -18718,11 +18718,11 @@
           ]
         },
         {
-          "name": "Translation of some mods into Russian",
-          "packageId": "RU.pashka.TranslateForSomeMods",
-          "steamId": "2885257046",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2885257046",
-          "authors": "pashka",
+          "name": "QOL rus",
+          "packageId": "kamikadza13QOL.All",
+          "steamId": "2791163039",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
+          "authors": "Kamikadza13",
           "gameVersions": [
             "1.3",
             "1.4",
@@ -18867,25 +18867,25 @@
         "1.6"
       ],
       "translation": {
-        "name": "MoeLotl - Русский Язык",
-        "packageId": "fartresh.hentailoliteam.axolotl",
-        "steamId": "3293321811",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3293321811",
-        "authors": "FarTresh",
+        "name": "MoeLotl Race (Russian Language)",
+        "packageId": "nanamy.moelotlraceru",
+        "steamId": "3292690516",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3292690516",
+        "authors": "Nanamy",
         "gameVersions": [
-          "1.5"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "MoeLotl Race (Russian Language)",
-          "packageId": "nanamy.moelotlraceru",
-          "steamId": "3292690516",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3292690516",
-          "authors": "Nanamy",
+          "name": "MoeLotl - Русский Язык",
+          "packageId": "fartresh.hentailoliteam.axolotl",
+          "steamId": "3293321811",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3293321811",
+          "authors": "FarTresh",
           "gameVersions": [
-            "1.5",
-            "1.6"
+            "1.5"
           ]
         }
       ]
@@ -18951,39 +18951,39 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus Moonlight",
-        "packageId": "am.rus.moonlight",
-        "steamId": "2878664951",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2878664951",
-        "authors": "Animal Mind",
+        "name": "ReGrowth Russian Language Pack",
+        "packageId": "OW.RU.ReGrowth",
+        "steamId": "2363339448",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2363339448",
+        "authors": "OliveWizard",
         "gameVersions": [
           "1.2",
           "1.3",
           "1.4",
-          "1.5"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
+        {
+          "name": "Rus Moonlight",
+          "packageId": "am.rus.moonlight",
+          "steamId": "2878664951",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2878664951",
+          "authors": "Animal Mind",
+          "gameVersions": [
+            "1.2",
+            "1.3",
+            "1.4",
+            "1.5"
+          ]
+        },
         {
           "name": "Moonlight Russian",
           "steamId": "3096460387",
           "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3096460387",
           "gameVersions": [
             "1.4"
-          ]
-        },
-        {
-          "name": "ReGrowth Russian Language Pack",
-          "packageId": "OW.RU.ReGrowth",
-          "steamId": "2363339448",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2363339448",
-          "authors": "OliveWizard",
-          "gameVersions": [
-            "1.2",
-            "1.3",
-            "1.4",
-            "1.5",
-            "1.6"
           ]
         }
       ]
@@ -21369,35 +21369,35 @@
         "1.6"
       ],
       "translation": {
-        "name": "Performance Optimizer - Russian Translation",
-        "packageId": "taranchuk.performanceoptimizerrussiantranslation",
-        "steamId": "3539366911",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3539366911",
-        "authors": "Russian translation by ВАЛЕРА (Original: Taranchuk)",
+        "name": "Performance Optimizer - Русификатор",
+        "packageId": "dmitry6.RusPerformanceOptimizer",
+        "steamId": "2782434410",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2782434410",
+        "authors": "Dmitry6",
         "gameVersions": [
           "1.2",
           "1.3",
           "1.4",
           "1.5",
-          "1.6"
+          "1.6",
+          "1.7",
+          "1.8",
+          "1.9"
         ]
       },
       "alternatives": [
         {
-          "name": "Performance Optimizer - Русификатор",
-          "packageId": "dmitry6.RusPerformanceOptimizer",
-          "steamId": "2782434410",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2782434410",
-          "authors": "Dmitry6",
+          "name": "Performance Optimizer - Russian Translation",
+          "packageId": "taranchuk.performanceoptimizerrussiantranslation",
+          "steamId": "3539366911",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3539366911",
+          "authors": "Russian translation by ВАЛЕРА (Original: Taranchuk)",
           "gameVersions": [
             "1.2",
             "1.3",
             "1.4",
             "1.5",
-            "1.6",
-            "1.7",
-            "1.8",
-            "1.9"
+            "1.6"
           ]
         }
       ]
@@ -22654,11 +22654,11 @@
         "1.6"
       ],
       "translation": {
-        "name": "QSJ's Adaptive Armory Storage - на Русском языке",
-        "packageId": "qsj.aas.ru",
-        "steamId": "3338904548",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3338904548",
-        "authors": "Хави",
+        "name": "QSJ's Adaptive Armory Storage - Russian Translation",
+        "packageId": "cheesex.ru.aas",
+        "steamId": "3338043565",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3338043565",
+        "authors": "cheesex",
         "gameVersions": [
           "1.5",
           "1.6"
@@ -22666,11 +22666,11 @@
       },
       "alternatives": [
         {
-          "name": "QSJ's Adaptive Armory Storage - Russian Translation",
-          "packageId": "cheesex.ru.aas",
-          "steamId": "3338043565",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3338043565",
-          "authors": "cheesex",
+          "name": "QSJ's Adaptive Armory Storage - на Русском языке",
+          "packageId": "qsj.aas.ru",
+          "steamId": "3338904548",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3338904548",
+          "authors": "Хави",
           "gameVersions": [
             "1.5",
             "1.6"
@@ -23381,31 +23381,31 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus Realistic Rooms",
-        "steamId": "2425557300",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425557300",
+        "name": "Коллекция русских переводов RusPack",
+        "packageId": "dmitry6.RusPack",
+        "steamId": "2802167053",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802167053",
+        "authors": "Dmitry6",
         "gameVersions": [
-          "1.2",
           "1.3",
           "1.4",
-          "1.5"
+          "1.5",
+          "1.6",
+          "1.7",
+          "1.8",
+          "1.9"
         ]
       },
       "alternatives": [
         {
-          "name": "Коллекция русских переводов RusPack",
-          "packageId": "dmitry6.RusPack",
-          "steamId": "2802167053",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802167053",
-          "authors": "Dmitry6",
+          "name": "Rus Realistic Rooms",
+          "steamId": "2425557300",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425557300",
           "gameVersions": [
+            "1.2",
             "1.3",
             "1.4",
-            "1.5",
-            "1.6",
-            "1.7",
-            "1.8",
-            "1.9"
+            "1.5"
           ]
         }
       ]
@@ -23582,29 +23582,29 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus ReGrowth: Biomes of The Rim",
-        "steamId": "2425551346",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425551346",
+        "name": "ReGrowth Russian Language Pack",
+        "packageId": "OW.RU.ReGrowth",
+        "steamId": "2363339448",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2363339448",
+        "authors": "OliveWizard",
         "gameVersions": [
           "1.2",
           "1.3",
           "1.4",
-          "1.5"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "ReGrowth Russian Language Pack",
-          "packageId": "OW.RU.ReGrowth",
-          "steamId": "2363339448",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2363339448",
-          "authors": "OliveWizard",
+          "name": "Rus ReGrowth: Biomes of The Rim",
+          "steamId": "2425551346",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425551346",
           "gameVersions": [
             "1.2",
             "1.3",
             "1.4",
-            "1.5",
-            "1.6"
+            "1.5"
           ]
         }
       ]
@@ -26960,21 +26960,21 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus Simple Utilities: Wall",
-        "steamId": "2889756034",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2889756034",
+        "name": "Simple Utilities: Wall Russian",
+        "steamId": "3096465853",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3096465853",
         "gameVersions": [
-          "1.2",
-          "1.3",
           "1.4"
         ]
       },
       "alternatives": [
         {
-          "name": "Simple Utilities: Wall Russian",
-          "steamId": "3096465853",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3096465853",
+          "name": "Rus Simple Utilities: Wall",
+          "steamId": "2889756034",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2889756034",
           "gameVersions": [
+            "1.2",
+            "1.3",
             "1.4"
           ]
         }
@@ -27494,30 +27494,30 @@
         "1.5"
       ],
       "translation": {
-        "name": "Smart Speed rus",
-        "packageId": "kamikadza13.sarg.smartspeed",
-        "steamId": "2884209838",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884209838",
-        "authors": "Kamikadza13",
+        "name": "Smart Speed - Русский перевод",
+        "packageId": "0smadeu5.smartspeed.russian",
+        "steamId": "3530087899",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3530087899",
+        "authors": "0smadeu5",
         "gameVersions": [
-          "1.0",
-          "1.1",
-          "1.2",
-          "1.3",
-          "1.4"
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Smart Speed - Русский перевод",
-          "packageId": "0smadeu5.smartspeed.russian",
-          "steamId": "3530087899",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3530087899",
-          "authors": "0smadeu5",
+          "name": "Smart Speed rus",
+          "packageId": "kamikadza13.sarg.smartspeed",
+          "steamId": "2884209838",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2884209838",
+          "authors": "Kamikadza13",
           "gameVersions": [
-            "1.4",
-            "1.5",
-            "1.6"
+            "1.0",
+            "1.1",
+            "1.2",
+            "1.3",
+            "1.4"
           ]
         },
         {
@@ -30229,31 +30229,31 @@
         "1.6"
       ],
       "translation": {
-        "name": "UN-Colony + UN-Furniture [RUS]",
-        "steamId": "2804797898",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2804797898",
+        "name": "Коллекция русских переводов RusPack",
+        "packageId": "dmitry6.RusPack",
+        "steamId": "2802167053",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802167053",
+        "authors": "Dmitry6",
         "gameVersions": [
-          "1.0",
-          "1.1",
-          "1.2",
-          "1.3"
+          "1.3",
+          "1.4",
+          "1.5",
+          "1.6",
+          "1.7",
+          "1.8",
+          "1.9"
         ]
       },
       "alternatives": [
         {
-          "name": "Коллекция русских переводов RusPack",
-          "packageId": "dmitry6.RusPack",
-          "steamId": "2802167053",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802167053",
-          "authors": "Dmitry6",
+          "name": "UN-Colony + UN-Furniture [RUS]",
+          "steamId": "2804797898",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2804797898",
           "gameVersions": [
-            "1.3",
-            "1.4",
-            "1.5",
-            "1.6",
-            "1.7",
-            "1.8",
-            "1.9"
+            "1.0",
+            "1.1",
+            "1.2",
+            "1.3"
           ]
         }
       ]
@@ -30785,27 +30785,27 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus Vanilla Animals Expanded",
-        "steamId": "2425551020",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425551020",
+        "name": "Vanilla Animals Expanded Russian Language Pack",
+        "packageId": "Mewn.RU.ANIMALS",
+        "steamId": "2947390965",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2947390965",
+        "authors": "Mewn Goddess",
         "gameVersions": [
-          "1.2",
-          "1.3",
           "1.4",
-          "1.5"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Vanilla Animals Expanded Russian Language Pack",
-          "packageId": "Mewn.RU.ANIMALS",
-          "steamId": "2947390965",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2947390965",
-          "authors": "Mewn Goddess",
+          "name": "Rus Vanilla Animals Expanded",
+          "steamId": "2425551020",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425551020",
           "gameVersions": [
+            "1.2",
+            "1.3",
             "1.4",
-            "1.5",
-            "1.6"
+            "1.5"
           ]
         }
       ]
@@ -30916,30 +30916,30 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus Vanilla Apparel and Armor Expanded",
-        "steamId": "2425550537",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425550537",
+        "name": "Vanilla Apparel Expanded Russian Language Pack",
+        "packageId": "OW.RU.Apparel",
+        "steamId": "2133165949",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2133165949",
+        "authors": "OliveWizard",
         "gameVersions": [
+          "1.1",
           "1.2",
           "1.3",
           "1.4",
-          "1.5"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Vanilla Apparel Expanded Russian Language Pack",
-          "packageId": "OW.RU.Apparel",
-          "steamId": "2133165949",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2133165949",
-          "authors": "OliveWizard",
+          "name": "Rus Vanilla Apparel and Armor Expanded",
+          "steamId": "2425550537",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425550537",
           "gameVersions": [
-            "1.1",
             "1.2",
             "1.3",
             "1.4",
-            "1.5",
-            "1.6"
+            "1.5"
           ]
         }
       ]
@@ -32235,22 +32235,22 @@
         "1.6"
       ],
       "translation": {
-        "name": "Vanilla Gravship Expanded - Chapter 1 Russian",
-        "packageId": "xenomorphchyma.vanillaexpanded.gravship",
-        "steamId": "3610108887",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3610108887",
-        "authors": "Xenomorphchyma",
+        "name": "Vanilla Gravship Expanded - Chapter 1 Russian Language Pack",
+        "packageId": "OW.RU.Gravship1",
+        "steamId": "3615520226",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3615520226",
+        "authors": "OliveWizard",
         "gameVersions": [
           "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Vanilla Gravship Expanded - Chapter 1 Russian Language Pack",
-          "packageId": "OW.RU.Gravship1",
-          "steamId": "3615520226",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3615520226",
-          "authors": "OliveWizard",
+          "name": "Vanilla Gravship Expanded - Chapter 1 Russian",
+          "packageId": "xenomorphchyma.vanillaexpanded.gravship",
+          "steamId": "3610108887",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3610108887",
+          "authors": "Xenomorphchyma",
           "gameVersions": [
             "1.6"
           ]
@@ -32373,28 +32373,28 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus Vanilla Ideology Expanded - Dryads",
-        "steamId": "2970616983",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2970616983",
+        "name": "Vanilla Ideology Expanded Russian Language Pack",
+        "packageId": "OW.RU.VIE",
+        "steamId": "2569397678",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2569397678",
+        "authors": "OliveWizard, Hart ty, Amortem",
         "gameVersions": [
-          "1.2",
           "1.3",
           "1.4",
-          "1.5"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Vanilla Ideology Expanded Russian Language Pack",
-          "packageId": "OW.RU.VIE",
-          "steamId": "2569397678",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2569397678",
-          "authors": "OliveWizard, Hart ty, Amortem",
+          "name": "Rus Vanilla Ideology Expanded - Dryads",
+          "steamId": "2970616983",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2970616983",
           "gameVersions": [
+            "1.2",
             "1.3",
             "1.4",
-            "1.5",
-            "1.6"
+            "1.5"
           ]
         }
       ]
@@ -32411,28 +32411,28 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus Vanilla Ideology Expanded - Hats and Rags",
-        "steamId": "2932603886",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2932603886",
+        "name": "Vanilla Ideology Expanded Russian Language Pack",
+        "packageId": "OW.RU.VIE",
+        "steamId": "2569397678",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2569397678",
+        "authors": "OliveWizard, Hart ty, Amortem",
         "gameVersions": [
-          "1.2",
           "1.3",
           "1.4",
-          "1.5"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Vanilla Ideology Expanded Russian Language Pack",
-          "packageId": "OW.RU.VIE",
-          "steamId": "2569397678",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2569397678",
-          "authors": "OliveWizard, Hart ty, Amortem",
+          "name": "Rus Vanilla Ideology Expanded - Hats and Rags",
+          "steamId": "2932603886",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2932603886",
           "gameVersions": [
+            "1.2",
             "1.3",
             "1.4",
-            "1.5",
-            "1.6"
+            "1.5"
           ]
         }
       ]
@@ -32474,28 +32474,28 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus Vanilla Ideology Expanded - Relics and Artifacts",
-        "steamId": "2932604071",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2932604071",
+        "name": "Vanilla Ideology Expanded Russian Language Pack",
+        "packageId": "OW.RU.VIE",
+        "steamId": "2569397678",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2569397678",
+        "authors": "OliveWizard, Hart ty, Amortem",
         "gameVersions": [
-          "1.2",
           "1.3",
           "1.4",
-          "1.5"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Vanilla Ideology Expanded Russian Language Pack",
-          "packageId": "OW.RU.VIE",
-          "steamId": "2569397678",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2569397678",
-          "authors": "OliveWizard, Hart ty, Amortem",
+          "name": "Rus Vanilla Ideology Expanded - Relics and Artifacts",
+          "steamId": "2932604071",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2932604071",
           "gameVersions": [
+            "1.2",
             "1.3",
             "1.4",
-            "1.5",
-            "1.6"
+            "1.5"
           ]
         }
       ]
@@ -32512,28 +32512,28 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus Vanilla Ideology Expanded - Sophian Style",
-        "steamId": "3239880005",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3239880005",
+        "name": "Vanilla Ideology Expanded Russian Language Pack",
+        "packageId": "OW.RU.VIE",
+        "steamId": "2569397678",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2569397678",
+        "authors": "OliveWizard, Hart ty, Amortem",
         "gameVersions": [
-          "1.2",
           "1.3",
           "1.4",
-          "1.5"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Vanilla Ideology Expanded Russian Language Pack",
-          "packageId": "OW.RU.VIE",
-          "steamId": "2569397678",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2569397678",
-          "authors": "OliveWizard, Hart ty, Amortem",
+          "name": "Rus Vanilla Ideology Expanded - Sophian Style",
+          "steamId": "3239880005",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3239880005",
           "gameVersions": [
+            "1.2",
             "1.3",
             "1.4",
-            "1.5",
-            "1.6"
+            "1.5"
           ]
         }
       ]
@@ -32642,11 +32642,11 @@
         "1.5"
       ],
       "translation": {
-        "name": "Vanilla Outposts Expanded  [RUS] [РУС]",
-        "packageId": "vanillaexpanded.outposts.ru",
-        "steamId": "3513830706",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3513830706",
-        "authors": "Micharduio",
+        "name": "Vanilla Outposts Expanded Russian Language Pack",
+        "packageId": "OW.RU.Outposts",
+        "steamId": "2689856888",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2689856888",
+        "authors": "OliveWizard",
         "gameVersions": [
           "1.3",
           "1.4",
@@ -32655,6 +32655,19 @@
         ]
       },
       "alternatives": [
+        {
+          "name": "Vanilla Outposts Expanded  [RUS] [РУС]",
+          "packageId": "vanillaexpanded.outposts.ru",
+          "steamId": "3513830706",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3513830706",
+          "authors": "Micharduio",
+          "gameVersions": [
+            "1.3",
+            "1.4",
+            "1.5",
+            "1.6"
+          ]
+        },
         {
           "name": "Rus Vanilla Outposts Expanded",
           "packageId": "am.rus.vanillaexpanded.outposts",
@@ -32666,19 +32679,6 @@
             "1.3",
             "1.4",
             "1.5"
-          ]
-        },
-        {
-          "name": "Vanilla Outposts Expanded Russian Language Pack",
-          "packageId": "OW.RU.Outposts",
-          "steamId": "2689856888",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2689856888",
-          "authors": "OliveWizard",
-          "gameVersions": [
-            "1.3",
-            "1.4",
-            "1.5",
-            "1.6"
           ]
         }
       ]
@@ -33644,30 +33644,30 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus Vanilla Trading Expanded",
-        "packageId": "am.rus.vanillatradingexpanded",
-        "steamId": "2878664272",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2878664272",
-        "authors": "Animal Mind",
+        "name": "Vanilla Trading Expanded Russian Language Pack",
+        "packageId": "OW.RU.Trading",
+        "steamId": "2787018584",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2787018584",
+        "authors": "OliveWizard",
         "gameVersions": [
-          "1.2",
           "1.3",
           "1.4",
-          "1.5"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Vanilla Trading Expanded Russian Language Pack",
-          "packageId": "OW.RU.Trading",
-          "steamId": "2787018584",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2787018584",
-          "authors": "OliveWizard",
+          "name": "Rus Vanilla Trading Expanded",
+          "packageId": "am.rus.vanillatradingexpanded",
+          "steamId": "2878664272",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2878664272",
+          "authors": "Animal Mind",
           "gameVersions": [
+            "1.2",
             "1.3",
             "1.4",
-            "1.5",
-            "1.6"
+            "1.5"
           ]
         },
         {
@@ -33692,31 +33692,31 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus Vanilla Traits Expanded",
-        "packageId": "am.rus.vanillatraitsexpanded",
-        "steamId": "2591141204",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2591141204",
-        "authors": "Animal Mind",
+        "name": "Vanilla Traits Expanded Russian Language Pack",
+        "packageId": "OW.RU.Traits",
+        "steamId": "2337425872",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2337425872",
+        "authors": "OliveWizard",
         "gameVersions": [
           "1.2",
           "1.3",
           "1.4",
-          "1.5"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Vanilla Traits Expanded Russian Language Pack",
-          "packageId": "OW.RU.Traits",
-          "steamId": "2337425872",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2337425872",
-          "authors": "OliveWizard",
+          "name": "Rus Vanilla Traits Expanded",
+          "packageId": "am.rus.vanillatraitsexpanded",
+          "steamId": "2591141204",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2591141204",
+          "authors": "Animal Mind",
           "gameVersions": [
             "1.2",
             "1.3",
             "1.4",
-            "1.5",
-            "1.6"
+            "1.5"
           ]
         }
       ]
@@ -33796,14 +33796,18 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus Vanilla Weapons Expanded",
-        "steamId": "2425550787",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425550787",
+        "name": "Vanilla Weapons Expanded Russian Language Pack",
+        "packageId": "OW.RU.Weapons",
+        "steamId": "2126925929",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2126925929",
+        "authors": "OliveWizard",
         "gameVersions": [
+          "1.1",
           "1.2",
           "1.3",
           "1.4",
-          "1.5"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
@@ -33818,18 +33822,14 @@
           ]
         },
         {
-          "name": "Vanilla Weapons Expanded Russian Language Pack",
-          "packageId": "OW.RU.Weapons",
-          "steamId": "2126925929",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2126925929",
-          "authors": "OliveWizard",
+          "name": "Rus Vanilla Weapons Expanded",
+          "steamId": "2425550787",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425550787",
           "gameVersions": [
-            "1.1",
             "1.2",
             "1.3",
             "1.4",
-            "1.5",
-            "1.6"
+            "1.5"
           ]
         }
       ]
