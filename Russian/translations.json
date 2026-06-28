@@ -1,6 +1,6 @@
 {
-  "version": 1782567877,
-  "updatedAt": "2026-06-27",
+  "version": 1782667763,
+  "updatedAt": "2026-06-28",
   "language": "Russian",
   "aliases": [
     "Russian (GitHub)"
@@ -2032,26 +2032,28 @@
         "1.6"
       ],
       "translation": {
-        "name": "Русификатор [RH2] BCD: CASEVAC",
-        "packageId": "RU.RH2.BCD.CASEVAC",
-        "steamId": "3247386815",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3247386815",
-        "authors": "swervll",
+        "name": "[RH2] BCD: CASEVAC на русском языке",
+        "packageId": "RH2.BCD.CASEVAC.RU",
+        "steamId": "3435685457",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3435685457",
+        "authors": "Хави",
         "gameVersions": [
-          "1.5"
+          "1.2",
+          "1.3",
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "[RH2] BCD: CASEVAC на русском языке",
-          "steamId": "3435685457",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3435685457",
+          "name": "Русификатор [RH2] BCD: CASEVAC",
+          "packageId": "RU.RH2.BCD.CASEVAC",
+          "steamId": "3247386815",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3247386815",
+          "authors": "swervll",
           "gameVersions": [
-            "1.2",
-            "1.3",
-            "1.4",
-            "1.5",
-            "1.6"
+            "1.5"
           ]
         }
       ]
@@ -2098,26 +2100,28 @@
         "1.6"
       ],
       "translation": {
-        "name": "Русификатор [RH2] CPERS: Arrest Here!",
-        "packageId": "RU.RH2.CPERS.Arrest.Here",
-        "steamId": "3251024424",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3251024424",
-        "authors": "swervll",
+        "name": "[RH2] CPERS: Arrest Here! на русском языке",
+        "packageId": "RH2.CPERS.Arrest.Here.RU",
+        "steamId": "3435698256",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3435698256",
+        "authors": "Хави",
         "gameVersions": [
-          "1.5"
+          "1.2",
+          "1.3",
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "[RH2] CPERS: Arrest Here! на русском языке",
-          "steamId": "3435698256",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3435698256",
+          "name": "Русификатор [RH2] CPERS: Arrest Here!",
+          "packageId": "RU.RH2.CPERS.Arrest.Here",
+          "steamId": "3251024424",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3251024424",
+          "authors": "swervll",
           "gameVersions": [
-            "1.2",
-            "1.3",
-            "1.4",
-            "1.5",
-            "1.6"
+            "1.5"
           ]
         }
       ]
@@ -4439,11 +4443,10 @@
         "1.6"
       ],
       "translation": {
-        "name": "Ancient amorphous threat - Russian Translation",
-        "packageId": "cheesex.AncientThreat.RU",
-        "steamId": "3317693824",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3317693824",
-        "authors": "cheesex",
+        "name": "Ancient amorphous threat (Ru translation)",
+        "steamId": "3488301098",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3488301098",
+        "authors": "Nanamy",
         "gameVersions": [
           "1.5",
           "1.6"
@@ -4451,9 +4454,11 @@
       },
       "alternatives": [
         {
-          "name": "Ancient amorphous threat (Ru translation)",
-          "steamId": "3488301098",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3488301098",
+          "name": "Ancient amorphous threat - Russian Translation",
+          "packageId": "cheesex.AncientThreat.RU",
+          "steamId": "3317693824",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3317693824",
+          "authors": "cheesex",
           "gameVersions": [
             "1.5",
             "1.6"
@@ -7678,30 +7683,30 @@
         "1.6"
       ],
       "translation": {
-        "name": "Rus Camping Tent",
-        "steamId": "2425558373",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425558373",
+        "name": "Коллекция русских переводов RusPack",
+        "packageId": "dmitry6.RusPack",
+        "steamId": "2802167053",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802167053",
+        "authors": "Dmitry6",
         "gameVersions": [
-          "1.2",
           "1.3",
-          "1.4"
+          "1.4",
+          "1.5",
+          "1.6",
+          "1.7",
+          "1.8",
+          "1.9"
         ]
       },
       "alternatives": [
         {
-          "name": "Коллекция русских переводов RusPack",
-          "packageId": "dmitry6.RusPack",
-          "steamId": "2802167053",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802167053",
-          "authors": "Dmitry6",
+          "name": "Rus Camping Tent",
+          "steamId": "2425558373",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2425558373",
           "gameVersions": [
+            "1.2",
             "1.3",
-            "1.4",
-            "1.5",
-            "1.6",
-            "1.7",
-            "1.8",
-            "1.9"
+            "1.4"
           ]
         }
       ]
@@ -10047,24 +10052,26 @@
         "1.6"
       ],
       "translation": {
-        "name": "Det's Xenotypes - Stoneborn rus",
-        "steamId": "3225058241",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3225058241",
+        "name": "Det's Xenotypes - Stoneborn RU",
+        "packageId": "craftersmine.translation.det.stoneborn",
+        "steamId": "3372778677",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3372778677",
+        "authors": "craftersmine",
         "gameVersions": [
-          "1.4",
-          "1.5"
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "Det's Xenotypes - Stoneborn RU",
-          "packageId": "craftersmine.translation.det.stoneborn",
-          "steamId": "3372778677",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3372778677",
-          "authors": "craftersmine",
+          "name": "Det's Xenotypes - Stoneborn rus",
+          "packageId": "Kindest.det.stoneborn",
+          "steamId": "3225058241",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3225058241",
+          "authors": "Kindest",
           "gameVersions": [
-            "1.5",
-            "1.6"
+            "1.4",
+            "1.5"
           ]
         },
         {
@@ -17692,31 +17699,31 @@
         "1.6"
       ],
       "translation": {
-        "name": "Medical Training [RUS]",
-        "steamId": "2780327333",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2780327333",
+        "name": "Коллекция русских переводов RusPack",
+        "packageId": "dmitry6.RusPack",
+        "steamId": "2802167053",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802167053",
+        "authors": "Dmitry6",
         "gameVersions": [
-          "1.0",
-          "1.1",
-          "1.2",
-          "1.3"
+          "1.3",
+          "1.4",
+          "1.5",
+          "1.6",
+          "1.7",
+          "1.8",
+          "1.9"
         ]
       },
       "alternatives": [
         {
-          "name": "Коллекция русских переводов RusPack",
-          "packageId": "dmitry6.RusPack",
-          "steamId": "2802167053",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802167053",
-          "authors": "Dmitry6",
+          "name": "Medical Training [RUS]",
+          "steamId": "2780327333",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2780327333",
           "gameVersions": [
-            "1.3",
-            "1.4",
-            "1.5",
-            "1.6",
-            "1.7",
-            "1.8",
-            "1.9"
+            "1.0",
+            "1.1",
+            "1.2",
+            "1.3"
           ]
         }
       ]
@@ -26107,27 +26114,27 @@
         "1.6"
       ],
       "translation": {
-        "name": "Scattered Flames Russian",
-        "packageId": "shuoQi.RU.ScatteredFlames",
-        "steamId": "3096463642",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3096463642",
-        "authors": "shuoQi",
+        "name": "QOL rus",
+        "packageId": "kamikadza13QOL.All",
+        "steamId": "2791163039",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
+        "authors": "Kamikadza13",
         "gameVersions": [
-          "1.4"
+          "1.3",
+          "1.4",
+          "1.5",
+          "1.6"
         ]
       },
       "alternatives": [
         {
-          "name": "QOL rus",
-          "packageId": "kamikadza13QOL.All",
-          "steamId": "2791163039",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2791163039",
-          "authors": "Kamikadza13",
+          "name": "Scattered Flames Russian",
+          "packageId": "shuoQi.RU.ScatteredFlames",
+          "steamId": "3096463642",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3096463642",
+          "authors": "shuoQi",
           "gameVersions": [
-            "1.3",
-            "1.4",
-            "1.5",
-            "1.6"
+            "1.4"
           ]
         }
       ]
@@ -26145,14 +26152,30 @@
         "1.6"
       ],
       "translation": {
-        "name": "Scattered Stones Russian",
-        "steamId": "3096464130",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3096464130",
+        "name": "Коллекция русских переводов RusPack",
+        "packageId": "dmitry6.RusPack",
+        "steamId": "2802167053",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802167053",
+        "authors": "Dmitry6",
         "gameVersions": [
-          "1.4"
+          "1.3",
+          "1.4",
+          "1.5",
+          "1.6",
+          "1.7",
+          "1.8",
+          "1.9"
         ]
       },
       "alternatives": [
+        {
+          "name": "Scattered Stones Russian",
+          "steamId": "3096464130",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3096464130",
+          "gameVersions": [
+            "1.4"
+          ]
+        },
         {
           "name": "Rus Scattered Stones",
           "steamId": "2613907796",
@@ -26162,22 +26185,6 @@
             "1.3",
             "1.4",
             "1.5"
-          ]
-        },
-        {
-          "name": "Коллекция русских переводов RusPack",
-          "packageId": "dmitry6.RusPack",
-          "steamId": "2802167053",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802167053",
-          "authors": "Dmitry6",
-          "gameVersions": [
-            "1.3",
-            "1.4",
-            "1.5",
-            "1.6",
-            "1.7",
-            "1.8",
-            "1.9"
           ]
         }
       ]
@@ -35147,28 +35154,28 @@
         "1.6"
       ],
       "translation": {
-        "name": "While You Are Nearby [RUS]",
-        "steamId": "2801544109",
-        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801544109",
+        "name": "Коллекция русских переводов RusPack",
+        "packageId": "dmitry6.RusPack",
+        "steamId": "2802167053",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802167053",
+        "authors": "Dmitry6",
         "gameVersions": [
-          "1.3"
+          "1.3",
+          "1.4",
+          "1.5",
+          "1.6",
+          "1.7",
+          "1.8",
+          "1.9"
         ]
       },
       "alternatives": [
         {
-          "name": "Коллекция русских переводов RusPack",
-          "packageId": "dmitry6.RusPack",
-          "steamId": "2802167053",
-          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2802167053",
-          "authors": "Dmitry6",
+          "name": "While You Are Nearby [RUS]",
+          "steamId": "2801544109",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801544109",
           "gameVersions": [
-            "1.3",
-            "1.4",
-            "1.5",
-            "1.6",
-            "1.7",
-            "1.8",
-            "1.9"
+            "1.3"
           ]
         }
       ]
